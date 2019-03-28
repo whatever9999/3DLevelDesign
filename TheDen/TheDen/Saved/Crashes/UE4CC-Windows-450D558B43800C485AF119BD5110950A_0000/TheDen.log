@@ -1,0 +1,1255 @@
+﻿Log file open, 03/28/19 09:52:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDen
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1036155895) SRandInit(-1036155895).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.226918
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.619s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-L1DMM4S (100.72.164.18:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal  -epicusername="Azerty_333" -epicuserid=be48acb5dc834a04812c9df78542e6b3 -epiclocale=en-GB
+LogInit: Base Directory: D:/Epic/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.28-09.52.21:440][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.28-09.52.21:440][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.28-09.52.21:455][  0]LogInit: Computer: DESKTOP-L1DMM4S
+[2019.03.28-09.52.21:455][  0]LogInit: User: Domin
+[2019.03.28-09.52.21:455][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.28-09.52.21:455][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2019.03.28-09.52.21:456][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.03.28-09.52.21:456][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.28-09.52.21:456][  0]LogMemory: Process Physical Memory: 273.36 MB used, 273.36 MB peak
+[2019.03.28-09.52.21:456][  0]LogMemory: Process Virtual Memory: 270.43 MB used, 270.43 MB peak
+[2019.03.28-09.52.21:456][  0]LogMemory: Physical Memory: 6180.40 MB used,  1972.28 MB free, 8152.68 MB total
+[2019.03.28-09.52.21:456][  0]LogMemory: Virtual Memory: 4793.27 MB used,  1972.28 MB free, 134217728.00 MB total
+[2019.03.28-09.52.21:471][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.28-09.52.21:471][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.28-09.52.21:473][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.28-09.52.21:805][  0]LogStreaming: Display: Took  0.334s to EndInitTextLocalization.
+[2019.03.28-09.52.21:805][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.28-09.52.21:833][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.28-09.52.21:833][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.28-09.52.21:972][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.28-09.52.22:033][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.03.28-09.52.22:033][  0]LogD3D11RHI:       4018/0/4076 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.28-09.52.22:035][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.28-09.52.22:035][  0]LogD3D11RHI:       0/0/4076 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.28-09.52.22:035][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.28-09.52.22:044][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.28-09.52.22:044][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.28-09.52.22:044][  0]LogWindows: EnumDisplayDevices:
+[2019.03.28-09.52.22:044][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.03.28-09.52.22:045][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2019.03.28-09.52.22:045][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.03.28-09.52.22:045][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.03.28-09.52.22:045][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.28-09.52.22:045][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.03.28-09.52.22:045][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.28-09.52.22:045][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.28-09.52.22:045][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.03.28-09.52.22:075][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.28-09.52.22:075][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.28-09.52.22:075][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.28-09.52.22:098][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.28-09.52.22:147][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../Projects/3DLevelDesign/TheDen/TheDen/Intermediate/Shaders/WorkingDirectory/3548/).
+[2019.03.28-09.52.22:147][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Domin/AppData/Local/Temp/UnrealShaderWorkingDir/73058DF84D9DA03BE7090982073F19F1/'.
+[2019.03.28-09.52.22:388][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.28-09.52.22:398][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.28-09.52.22:409][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.28-09.52.22:418][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.28-09.52.22:429][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.28-09.52.22:438][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.28-09.52.22:448][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.28-09.52.22:458][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.28-09.52.22:463][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.28-09.52.22:471][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.28-09.52.22:480][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.28-09.52.22:489][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.28-09.52.22:498][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.03.28-09.52.22:507][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.28-09.52.22:516][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.28-09.52.22:534][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.28-09.52.22:534][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.28-09.52.22:543][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.28-09.52.22:544][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.28-09.52.22:577][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.28-09.52.22:588][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.28-09.52.22:598][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.28-09.52.22:608][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.28-09.52.22:618][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.28-09.52.22:627][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.28-09.52.22:627][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.28-09.52.22:697][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.28-09.52.22:697][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.28-09.52.22:697][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.28-09.52.23:213][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.28-09.52.23:284][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Domin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.28-09.52.23:284][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Domin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.03.28-09.52.23:284][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/3DLevelDesign/TheDen/TheDen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.28-09.52.23:284][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.28-09.52.23:284][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/3DLevelDesign/TheDen/TheDen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.28-09.52.23:284][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.28-09.52.23:296][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.28-09.52.23:308][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Domin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.28-09.52.23:308][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.28-09.52.23:308][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.28-09.52.23:317][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.28-09.52.23:317][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.28-09.52.23:318][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.28-09.52.23:318][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.28-09.52.23:434][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
+[2019.03.28-09.52.23:653][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.28-09.52.23:760][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.28-09.52.23:762][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.28-09.52.23:762][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.28-09.52.23:762][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.28-09.52.23:762][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.28-09.52.23:762][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.28-09.52.23:789][  0]LogNetVersion: TheDen , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147918773)
+[2019.03.28-09.52.24:246][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.095408 seconds
+[2019.03.28-09.52.24:251][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.03.28-09.52.24:251][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.03.28-09.52.24:251][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.28-09.52.25:558][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.28-09.52.25:581][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.28-09.52.25:863][  0]SourceControl: Source control is disabled
+[2019.03.28-09.52.25:863][  0]SourceControl: Source control is disabled
+[2019.03.28-09.52.25:874][  0]SourceControl: Source control is disabled
+[2019.03.28-09.52.25:885][  0]SourceControl: Source control is disabled
+[2019.03.28-09.52.26:221][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.28-09.52.26:328][  0]LogOcInput: OculusInput pre-init called
+[2019.03.28-09.52.26:404][  0]LogEngine: Initializing Engine...
+[2019.03.28-09.52.26:405][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.28-09.52.26:406][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.28-09.52.26:406][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.28-09.52.26:623][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.28-09.52.26:691][  0]LogInit: XAudio2 using 'Headset (SB Tactic(3D) Wrath Wireless)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-09.52.26:713][  0]LogInit: FAudioDevice initialized.
+[2019.03.28-09.52.26:803][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/Domin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.28-09.52.26:817][  0]LogInit: Texture streaming: Enabled
+[2019.03.28-09.52.26:827][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.28-09.52.27:039][  0]LogInit: Transaction tracking system initialized
+[2019.03.28-09.52.27:052][  0]BlueprintLog: New page: Editor Load
+[2019.03.28-09.52.27:093][  0]LocalizationService: Localization service is disabled
+[2019.03.28-09.52.27:155][  0]LogConsoleResponse: Display: 
+[2019.03.28-09.52.27:415][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.28-09.52.27:415][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.28-09.52.27:415][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.28-09.52.27:415][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.28-09.52.27:415][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.28-09.52.27:446][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/3DLevelDesign/TheDen/TheDen/Content/' took 0.04s
+[2019.03.28-09.52.27:643][  0]SourceControl: Source control is disabled
+[2019.03.28-09.52.27:643][  0]Cmd: MAP LOAD FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.28-09.52.27:644][  0]LightingResults: New page: Lighting Build
+[2019.03.28-09.52.27:645][  0]MapCheck: New page: Map Check
+[2019.03.28-09.52.27:645][  0]LightingResults: New page: Lighting Build
+[2019.03.28-09.52.27:674][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269c2897890, Size=4, Default__LD_playerController_C Function /Game/LevelDesign/LD_playerController.LD_playerController_C:ExecuteUbergraph_LD_playerController
+[2019.03.28-09.52.27:720][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269c2897890, Size=4
+[2019.03.28-09.52.27:720][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269c2897890, Size=4, Default__LD_playerController_C Function /Engine/Transient.REINST_LD_playerController_C_1:ExecuteUbergraph_LD_playerController
+[2019.03.28-09.52.27:789][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269c2897988, Size=4, Default__LD_playerController_C Function /Game/LevelDesign/LD_playerController.LD_playerController_C:ExecuteUbergraph_LD_playerController
+[2019.03.28-09.52.27:968][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269ddf948c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.03.28-09.52.28:146][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269ddf948c0, Size=64
+[2019.03.28-09.52.28:146][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269dd4c7280, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.03.28-09.52.28:212][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e44ebf60, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.03.28-09.52.28:624][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269cc1b4b80, Size=384, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.03.28-09.52.28:662][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269cc1b4b80, Size=384
+[2019.03.28-09.52.28:662][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e4919180, Size=384, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_6:ExecuteUbergraph_ThirdPersonCharacter
+[2019.03.28-09.52.28:725][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e48d8b80, Size=384, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.03.28-09.52.28:733][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269cb3351c0, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Game/Provision/Doorset_DoorFrame_Blueprint.Doorset_DoorFrame_Blueprint_C:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.03.28-09.52.28:747][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269cb3351c0, Size=264
+[2019.03.28-09.52.28:747][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269cb3351c0, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Engine/Transient.REINST_Doorset_DoorFrame_Blueprint_C_8:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.03.28-09.52.28:768][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e487bd80, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Game/Provision/Doorset_DoorFrame_Blueprint.Doorset_DoorFrame_Blueprint_C:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.03.28-09.52.28:774][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e489d7c0, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2019.03.28-09.52.28:776][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e489d7c0, Size=224
+[2019.03.28-09.52.28:776][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e489d7c0, Size=224, Default__Pickup_Blueprint_C Function /Engine/Transient.REINST_Pickup_Blueprint_C_10:ExecuteUbergraph_Pickup_Blueprint
+[2019.03.28-09.52.28:778][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e489c720, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2019.03.28-09.52.29:429][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2019.03.28-09.52.29:429][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.03.28-09.52.29:429][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.03.28-09.52.29:433][  0]LogStaticMesh: Building static mesh Ceiling...
+[2019.03.28-09.52.29:473][  0]LogStaticMesh: Built static mesh [0.04s] /Game/LevelDesign/Meshes/Modular/Ceiling.Ceiling
+[2019.03.28-09.52.29:612][  0]LogStaticMesh: Building static mesh Column...
+[2019.03.28-09.52.29:616][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelDesign/Meshes/Modular/Column.Column
+[2019.03.28-09.52.29:625][  0]LogStaticMesh: Building static mesh CorridorFloor...
+[2019.03.28-09.52.29:629][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelDesign/Meshes/Modular/CorridorFloor.CorridorFloor
+[2019.03.28-09.52.29:642][  0]LogStaticMesh: Building static mesh Doorset_DoorSlider...
+[2019.03.28-09.52.29:654][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Provision/Mesh/Doorset_DoorSlider.Doorset_DoorSlider
+[2019.03.28-09.52.29:657][  0]LogStaticMesh: Building static mesh Doorset_DoorFrame...
+[2019.03.28-09.52.29:660][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Provision/Mesh/Doorset_DoorFrame.Doorset_DoorFrame
+[2019.03.28-09.52.29:664][  0]LogStaticMesh: Building static mesh Lever...
+[2019.03.28-09.52.29:666][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/Meshes/Modular/Lever.Lever
+[2019.03.28-09.52.29:670][  0]LogStaticMesh: Building static mesh LeverBase...
+[2019.03.28-09.52.29:674][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelDesign/Meshes/Modular/LeverBase.LeverBase
+[2019.03.28-09.52.29:675][  0]LogStaticMesh: Building static mesh NormalFloor...
+[2019.03.28-09.52.29:677][  0]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/Meshes/Modular/NormalFloor.NormalFloor
+[2019.03.28-09.52.29:678][  0]LogStaticMesh: Building static mesh Pickup...
+[2019.03.28-09.52.29:681][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Provision/Mesh/Pickup.Pickup
+[2019.03.28-09.52.29:687][  0]LogStaticMesh: Building static mesh Wall...
+[2019.03.28-09.52.29:695][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelDesign/Meshes/Modular/Wall.Wall
+[2019.03.28-09.52.29:697][  0]LogStaticMesh: Building static mesh WindowWall...
+[2019.03.28-09.52.29:702][  0]LogStaticMesh: Built static mesh [0.01s] /Game/LevelDesign/Meshes/Modular/WindowWall.WindowWall
+[2019.03.28-09.52.29:998][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [91.041252ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.03.28-09.52.30:073][  0]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-09.52.30:189][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.28-09.52.30:200][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269c2897890, Size=4
+[2019.03.28-09.52.30:200][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269dd4c7280, Size=64
+[2019.03.28-09.52.30:223][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e4919180, Size=384
+[2019.03.28-09.52.30:223][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269cb3351c0, Size=264
+[2019.03.28-09.52.30:223][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e489d7c0, Size=224
+[2019.03.28-09.52.30:250][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.28-09.52.30:292][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.249ms to complete.
+[2019.03.28-09.52.30:292][  0]LogFileHelpers: Loading map 'PlayLevel' took 2.649
+[2019.03.28-09.52.31:424][  0]LogCollectionManager: Loaded 0 collections in 0.000934 seconds
+[2019.03.28-09.52.31:601][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/3DLevelDesign/TheDen/TheDen/Saved/Collections/' took 0.01s
+[2019.03.28-09.52.31:601][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/3DLevelDesign/TheDen/TheDen/Content/Developers/Domin/Collections/' took 0.01s
+[2019.03.28-09.52.31:601][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/3DLevelDesign/TheDen/TheDen/Content/Collections/' took 0.01s
+[2019.03.28-09.52.31:601][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.28-09.52.31:615][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2452 classes and 558 folders.
+[2019.03.28-09.52.31:834][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.28-09.52.33:600][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.28-09.52.33:793][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.03.28-09.52.35:043][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.28-09.52.35:051][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.28-09.52.35:175][  0]LogSlate: Took 0.027986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.28-09.52.35:840][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2019.03.28-09.52.36:443][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.52.36:522][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.03.28-09.52.36:553][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.28-09.52.36:553][  0]LogLoad: (Engine Initialization) Total time: 16.84 seconds
+[2019.03.28-09.52.36:553][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.28-09.52.36:617][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.28-09.52.36:645][  0]LogAssetRegistry: Asset discovery search completed in 13.2330 seconds
+[2019.03.28-09.52.36:646][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.28-09.52.36:646][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.03.28-09.52.36:717][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.28-09.52.36:897][  0]LogSlate: Took 0.030551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.28-09.52.36:925][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Projects/3DLevelDesign/TheDen/TheDen/Content/' took 0.30s
+[2019.03.28-09.52.38:077][ 34]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.28-09.53.37:329][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-09.53.38:115][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000002698066d420, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2019.03.28-09.53.38:137][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002698066d420, Size=88
+[2019.03.28-09.53.38:137][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000002698066d420, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Transient.REINST_Landscape_Painting_Mode_C_14:ExecuteUbergraph_Landscape_Painting_Mode
+[2019.03.28-09.53.38:141][858]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269886c5d50, Size=80, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2019.03.28-09.53.38:151][858]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269edd15de0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2019.03.28-09.53.38:153][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269edd15de0, Size=88
+[2019.03.28-09.53.38:154][858]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269edd15de0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_16:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2019.03.28-09.53.38:156][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000002698866eb60, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2019.03.28-09.53.38:168][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000002698867fe00, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2019.03.28-09.53.38:175][858]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002698867fe00, Size=64
+[2019.03.28-09.53.38:175][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000002698867e780, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Transient.REINST_CreatingSigningCertAndProvisionTutorial_C_18:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2019.03.28-09.53.38:178][858]LogUObjectGlobals: Created PersistentFrame Addr=0x000002698867d140, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2019.03.28-09.53.38:229][858]LogSlate: Window 'Tutorials' being destroyed
+[2019.03.28-09.54.04:089][648]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-09.54.42:286][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-09.54.42:374][293]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-09.54.42:416][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-09.54.42:451][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-09.54.42:550][293]PIE: New page: PIE session: PlayLevel (28 Mar 2019 09:54:42)
+[2019.03.28-09.54.42:551][293]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-09.54.42:614][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062828s)
+[2019.03.28-09.54.42:614][293]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-09.54.42:614][293]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2019.03.28-09.54.42:615][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.063910s)
+[2019.03.28-09.54.42:630][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002698867e780, Size=64
+[2019.03.28-09.54.42:630][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269edd15de0, Size=88
+[2019.03.28-09.54.42:630][293]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002698066d420, Size=88
+[2019.03.28-09.54.42:641][293]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-09.54.42:648][293]LogInit: FAudioDevice initialized.
+[2019.03.28-09.54.42:692][293]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-09.54.42:807][293]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-09.54.42
+[2019.03.28-09.54.42:867][293]LogWorld: Bringing up level for play took: 0.066836
+[2019.03.28-09.54.42:948][293]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2019.03.28-09.54.43:103][293]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel -0.028
+[2019.03.28-09.54.43:104][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-09.54.43:227][294]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080410 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.03.28-09.55.16:099][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-09.55.16:159][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-09.56.43:253][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor18)
+[2019.03.28-09.56.57:978][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeverBase)
+[2019.03.28-09.57.25:971][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-09.57.41:514][731]LogSlate: Window 'Select Path' being destroyed
+[2019.03.28-09.57.42:205][731]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.03.28-09.57.42:647][731]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a01fd61f0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.28-09.57.42:649][731]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a01fd61e8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.28-09.57.52:300][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2019.03.28-09.57.52:816][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lever)
+[2019.03.28-09.57.54:208][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.57.55:883][823]Cmd: DELETE
+[2019.03.28-09.57.55:883][823]Cmd: ACTOR DELETE
+[2019.03.28-09.57.56:126][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.28-09.57.56:145][823]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2019.03.28-09.58.02:298][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-09.58.04:850][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.58.07:306][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.58.07:990][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.58.25:001][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-09.59.14:454][542]LogSlate: Took 0.019159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.28-09.59.15:002][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.59.18:477][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.59.23:127][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-09.59.34:071][523]LogEditorTransaction: Undo Add Component
+[2019.03.28-09.59.36:040][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.59.38:855][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-09.59.40:155][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-09.59.55:236][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.00.14:656][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.00.24:868][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.00.24:909][513]BlueprintLog: New page: Compile Lever
+[2019.03.28-10.00.37:354][896]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-10.00.37:359][896]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-10.00.39:386][125]LogEditorViewport: Clicking on Actor (LMB): Lever_C (Lever2)
+[2019.03.28-10.01.11:274][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.01.13:949][899]LogSlate: Took 0.013939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.28-10.01.42:431][924]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a171524f0, Size=4, Default__SKEL_Lever_C Function /Game/LevelDesign/Blueprints/Lever.SKEL_Lever_C:ExecuteUbergraph_Lever
+[2019.03.28-10.03.01:217][ 20]BlueprintLog: New page: Compile Lever
+[2019.03.28-10.03.01:219][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a171524f0, Size=4
+[2019.03.28-10.03.01:219][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269d2522930, Size=4, Default__SKEL_Lever_C Function /Engine/Transient.REINST_SKEL_Lever_C_54:ExecuteUbergraph_Lever
+[2019.03.28-10.03.01:222][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a1701ca00, Size=184, Default__Lever_C Function /Game/LevelDesign/Blueprints/Lever.Lever_C:ExecuteUbergraph_Lever
+[2019.03.28-10.03.01:491][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269d2522930, Size=4
+[2019.03.28-10.03.02:615][127]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-10.03.02:620][127]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-10.03.04:457][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.03.04:531][347]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-10.03.04:546][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.03.04:546][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-10.03.04:547][347]PIE: New page: PIE session: PlayLevel (28 Mar 2019 10:03:04)
+[2019.03.28-10.03.04:547][347]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-10.03.04:551][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004555s)
+[2019.03.28-10.03.04:552][347]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-10.03.04:552][347]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2019.03.28-10.03.04:552][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.005258s)
+[2019.03.28-10.03.04:596][347]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-10.03.04:602][347]LogInit: FAudioDevice initialized.
+[2019.03.28-10.03.04:633][347]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-10.03.04:636][347]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-10.03.04
+[2019.03.28-10.03.04:637][347]LogWorld: Bringing up level for play took: 0.002840
+[2019.03.28-10.03.04:638][347]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel -0.493
+[2019.03.28-10.03.04:639][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.03.24:249][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.03.24:281][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.03.50:293][933]LogSavePackage: Save=182.26ms
+[2019.03.28-10.03.50:293][933]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/PlayLevel_Auto15223E7BE4B4348CEE047E8B6C7C35C42.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto1.umap'
+[2019.03.28-10.03.50:314][933]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto1.umap
+[2019.03.28-10.03.50:334][933]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelDesign/Maps/PlayLevel' took 0.317
+[2019.03.28-10.03.50:334][933]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.317
+[2019.03.28-10.03.50:336][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Blueprints/Lever] ([1] browsable assets)...
+[2019.03.28-10.03.50:382][933]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelDesign/Blueprints/Lever.Lever]
+[2019.03.28-10.03.50:382][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Blueprints/Lever]
+[2019.03.28-10.03.50:445][933]LogSavePackage: Save=61.04ms
+[2019.03.28-10.03.50:445][933]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Lever_Auto1C39C5B8E4ECEC8B09097D38DC1A7A9E5.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Blueprints/Lever_Auto1.uasset'
+[2019.03.28-10.03.50:446][933]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Blueprints/Lever_Auto1.uasset
+[2019.03.28-10.03.50:446][933]LogFileHelpers: Auto-saving content packages took 0.110
+[2019.03.28-10.08.02:074][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.08.11:872][ 32]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.03.28-10.08.11:891][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e48d8b80, Size=384
+[2019.03.28-10.08.11:891][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269ddffaf80, Size=384, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_68:ExecuteUbergraph_ThirdPersonCharacter
+[2019.03.28-10.08.11:896][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a183a6c00, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.03.28-10.08.22:398][235]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269ddffaf80, Size=384
+[2019.03.28-10.08.24:251][235]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.28-10.13.56:471][563]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.13.56:497][563]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelDesign/Maps/PlayLevel' took 0.016
+[2019.03.28-10.13.56:498][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.03.28-10.13.56:509][563]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.03.28-10.13.56:509][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.03.28-10.13.56:578][563]LogSavePackage: Save=61.94ms
+[2019.03.28-10.13.56:578][563]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/ThirdPersonCharacter_Auto252D1FBAE4A6883199CBCC099828C1388.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.03.28-10.13.56:578][563]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2019.03.28-10.13.56:578][563]LogFileHelpers: Auto-saving content packages took 0.080
+[2019.03.28-10.51.17:147][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.51.17:295][471]AssetReimport: New page: Outstanding source content changes 10:51:17
+[2019.03.28-10.51.17:329][472]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Ledge.FBX)
+[2019.03.28-10.51.17:460][472]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.03.28-10.51.17:460][472]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2019.03.28-10.51.17:461][472]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2019.03.28-10.51.17:461][472]LogFbx: ItemName: Model, ItemCount : 1
+[2019.03.28-10.51.17:461][472]LogFbx: ItemName: Geometry, ItemCount : 1
+[2019.03.28-10.51.17:474][472]LogFbx: Loading FBX Scene from D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Ledge.FBX
+[2019.03.28-10.51.17:480][472]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.28-10.51.19:004][472]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.28-10.51.19:040][472]LogFbx: Loading FBX Scene from D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Ledge.FBX
+[2019.03.28-10.51.19:044][472]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.28-10.51.19:089][472]LogStaticMesh: Building static mesh Ledge...
+[2019.03.28-10.51.19:090][472]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/Meshes/Modular/Ledge.Ledge
+[2019.03.28-10.51.19:127][473]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/BoxFloor.FBX)
+[2019.03.28-10.51.19:130][473]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.03.28-10.51.19:130][473]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2019.03.28-10.51.19:130][473]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2019.03.28-10.51.19:130][473]LogFbx: ItemName: Model, ItemCount : 1
+[2019.03.28-10.51.19:130][473]LogFbx: ItemName: Geometry, ItemCount : 1
+[2019.03.28-10.51.19:134][473]LogFbx: Loading FBX Scene from D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/BoxFloor.FBX
+[2019.03.28-10.51.19:140][473]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.28-10.51.19:156][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.51.19:621][473]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.28-10.51.19:643][473]LogFbx: Loading FBX Scene from D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/BoxFloor.FBX
+[2019.03.28-10.51.19:647][473]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.28-10.51.19:649][473]LogStaticMesh: Building static mesh BoxFloor...
+[2019.03.28-10.51.19:650][473]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/Meshes/Modular/BoxFloor.BoxFloor
+[2019.03.28-10.51.19:681][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.51.19:747][474]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/LightFloor.FBX)
+[2019.03.28-10.51.19:750][474]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.03.28-10.51.19:750][474]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2019.03.28-10.51.19:750][474]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2019.03.28-10.51.19:750][474]LogFbx: ItemName: Model, ItemCount : 1
+[2019.03.28-10.51.19:750][474]LogFbx: ItemName: Geometry, ItemCount : 1
+[2019.03.28-10.51.19:754][474]LogFbx: Loading FBX Scene from D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/LightFloor.FBX
+[2019.03.28-10.51.19:759][474]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.28-10.51.20:352][474]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.28-10.51.20:383][474]LogFbx: Loading FBX Scene from D:/Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/LightFloor.FBX
+[2019.03.28-10.51.20:388][474]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.28-10.51.20:390][474]LogStaticMesh: Building static mesh LightFloor...
+[2019.03.28-10.51.20:392][474]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/Meshes/Modular/LightFloor.LightFloor
+[2019.03.28-10.51.20:401][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.51.20:455][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/Modular/Ledge" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Ledge.uasset" SILENT=true
+[2019.03.28-10.51.20:468][475]LogSavePackage: Save=12.08ms
+[2019.03.28-10.51.20:468][475]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Ledge03F93E4640090E49B8A262B31203586F.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Ledge.uasset'
+[2019.03.28-10.51.20:473][475]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Ledge.uasset
+[2019.03.28-10.51.20:494][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/Modular/BoxFloor" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/BoxFloor.uasset" SILENT=true
+[2019.03.28-10.51.20:517][475]LogSavePackage: Save=11.10ms
+[2019.03.28-10.51.20:517][475]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/BoxFloor486EFD4C4D7452057546D58CAF103D61.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/BoxFloor.uasset'
+[2019.03.28-10.51.20:519][475]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/BoxFloor.uasset
+[2019.03.28-10.51.20:535][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/Modular/LightFloor" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/LightFloor.uasset" SILENT=true
+[2019.03.28-10.51.20:550][475]LogSavePackage: Save=13.30ms
+[2019.03.28-10.51.20:551][475]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/LightFloor0FF5AA914D864E8BEE7655B8B07E0C70.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/LightFloor.uasset'
+[2019.03.28-10.51.20:552][475]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/LightFloor.uasset
+[2019.03.28-10.51.23:564][835]AssetReimport: Importing new asset /Game/LevelDesign/Meshes/Modular/Ledge.
+[2019.03.28-10.51.23:564][835]AssetReimport: Importing new asset /Game/LevelDesign/Meshes/Modular/BoxFloor.
+[2019.03.28-10.51.23:564][835]AssetReimport: Importing new asset /Game/LevelDesign/Meshes/Modular/LightFloor.
+[2019.03.28-10.51.24:011][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.51.24:118][902]LogSlate: Window 'Message Log' being destroyed
+[2019.03.28-10.51.24:121][902]LogSlate: Window 'Message Log' being destroyed
+[2019.03.28-10.51.32:465][891]LogEditorViewport: Clicking on Actor (LMB): Pickup_Blueprint_C (Pickup_Blueprint2)
+[2019.03.28-10.51.35:685][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.51.38:103][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor20)
+[2019.03.28-10.51.40:683][852]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (NormalFloor20)
+[2019.03.28-10.51.40:812][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.51.44:920][303]Cmd: DELETE
+[2019.03.28-10.51.44:920][303]Cmd: ACTOR DELETE
+[2019.03.28-10.51.44:924][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.28-10.51.44:942][303]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.03.28-10.51.47:617][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.51.51:176][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.51.51:386][ 65]LogActorFactory: Actor Factory created LightFloor
+[2019.03.28-10.51.54:962][493]LogActorFactory: Actor Factory created LightFloor
+[2019.03.28-10.52.29:534][860]LogSavePackage: Save=172.35ms
+[2019.03.28-10.52.29:534][860]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/PlayLevel_Auto3F8BC65E64E4E127A9FEC11B406E09D5A.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto3.umap'
+[2019.03.28-10.52.29:535][860]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto3.umap
+[2019.03.28-10.52.29:538][860]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelDesign/Maps/PlayLevel' took 0.198
+[2019.03.28-10.52.29:538][860]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.198
+[2019.03.28-10.52.33:288][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor16)
+[2019.03.28-10.52.34:476][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LightFloor)
+[2019.03.28-10.52.45:382][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.53.02:334][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor16)
+[2019.03.28-10.53.09:115][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.53.14:885][706]LogStaticMesh: Building static mesh LightBox...
+[2019.03.28-10.53.14:901][706]LogStaticMesh: Built static mesh [0.02s] /Game/Provision/Mesh/LightBox.LightBox
+[2019.03.28-10.53.14:919][706]LogMaterial: Missing cached shader map for material BrightLight, compiling. 
+[2019.03.28-10.53.14:981][706]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.28-10.54.10:859][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.54.29:865][512]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.28-10.54.40:250][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.55.11:497][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.55.17:965][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.55.29:335][513]LogEditorViewport: Clicking on Actor (LMB): LightBox_Blueprint_C (LightBox_Blueprint)
+[2019.03.28-10.55.32:159][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.55.42:202][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.55.53:857][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.56.07:611][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.56.07:764][ 19]MapCheck: New page: Map Check
+[2019.03.28-10.56.07:792][ 19]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.28-10.56.07:792][ 19]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.28-10.56.07:939][ 19]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.03.28-10.56.07:962][ 19]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BrightLight, compiling. 
+[2019.03.28-10.56.08:424][ 19]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-10.56.08:424][ 19]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.28-10.56.08:424][ 19]TextureStreamingBuild: Display: Compiling optional shaders took 0.493 seconds.
+[2019.03.28-10.56.08:432][ 19]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2019.03.28-10.56.08:469][ 19]TextureStreamingBuild: Display: Build Texture Streaming took 0.038 seconds.
+[2019.03.28-10.56.08:498][ 19]LightingResults: New page: Lighting Build - 28 Mar 2019 10:56:08
+[2019.03.28-10.56.08:663][ 19]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.28-10.56.08:809][ 19]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.28-10.56.08:826][ 19]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.28-10.56.09:367][ 19]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.28-10.56.09:367][ 19]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3548
+[2019.03.28-10.56.14:158][ 19]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.03.28-10.56.14:184][ 19]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.28-10.56.14:184][ 19]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.28-10.56.14:184][ 19]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.28-10.56.14:184][ 19]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.28-10.56.14:184][ 19]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.28-10.56.14:354][ 19]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.28-10.56.14:354][ 19]MapCheck: New page: PlayLevel - 28 Mar 2019 10:56:14
+[2019.03.28-10.56.14:358][ 19]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.03.28-10.56.14:424][ 19]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 70.091ms to complete.
+[2019.03.28-10.56.14:447][ 19]LogEditorBuildUtils: Build time 0:06
+[2019.03.28-10.56.14:487][ 19]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.03.28-10.56.14:500][ 19]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.03.28-10.56.14:581][ 19]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-10.56.14:581][ 19]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.28-10.56.14:591][ 20]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BrightLight, compiling. 
+[2019.03.28-10.56.14:595][ 20]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BrightLight, compiling. 
+[2019.03.28-10.56.15:286][ 20]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.28-10.56.16:531][ 26]LogSlate: Window 'Message Log' being destroyed
+[2019.03.28-10.56.16:539][ 26]LogSlate: Window 'Message Log' being destroyed
+[2019.03.28-10.56.16:838][ 51]LogEditorViewport: Clicking Background
+[2019.03.28-10.56.17:847][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.56.19:052][228]MapCheck: New page: Map Check
+[2019.03.28-10.56.19:083][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.56.19:093][228]LogStaticLightingSystem: Warning: Failed to build lighting!!! A lighting build is already in progress! Please cancel it before triggering a new build.
+[2019.03.28-10.56.19:170][228]Job has failed! Job is closed while Tasks are still PENDING
+[2019.03.28-10.56.19:181][228]LogEditorBuildUtils: Build time 0:00
+[2019.03.28-10.56.25:977][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.56.26:956][147]MapCheck: New page: Map Check
+[2019.03.28-10.56.26:965][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.56.26:967][147]LightingResults: New page: Lighting Build - 28 Mar 2019 10:56:26
+[2019.03.28-10.56.26:975][147]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.28-10.56.26:977][147]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.28-10.56.26:977][147]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.28-10.56.26:977][147]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.28-10.56.26:977][147]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3548
+[2019.03.28-10.56.31:520][147]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.03.28-10.56.31:520][147]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.28-10.56.31:520][147]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.28-10.56.31:520][147]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.28-10.56.31:520][147]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.28-10.56.31:520][147]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.28-10.56.31:581][147]LogEditorBuildUtils: Build time 0:04
+[2019.03.28-10.56.34:306][369]LightingResults: Warning: WindowWall Object has overlapping UVs.
+[2019.03.28-10.56.34:306][369]LightingResults: WindowWall Lightmap UV are overlapping by 16.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.28-10.56.34:897][423]LightingResults: Warning: WindowWall Object has overlapping UVs.
+[2019.03.28-10.56.34:897][423]LightingResults: WindowWall Lightmap UV are overlapping by 16.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.03.28-10.56.36:007][524]Job is a success!
+[2019.03.28-10.56.36:031][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-10.56.36:058][525]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.03.28-10.56.36:058][525]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.28-10.56.36:058][525]LogVolumetricLightmapImport:      BrickData 95x5x5 = 0.1Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.03.28-10.56.36:058][525]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.28-10.56.36:058][525]LogVolumetricLightmapImport:          0: 5.3% covering 100.0% of volume
+[2019.03.28-10.56.36:058][525]LogVolumetricLightmapImport:          1: 10.5% covering 3.1% of volume
+[2019.03.28-10.56.36:058][525]LogVolumetricLightmapImport:          2: 84.2% covering 0.4% of volume
+[2019.03.28-10.56.36:778][525]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.03.28-10.56.36:778][525]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.03.28-10.56.36:778][525]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.03.28-10.56.36:778][525]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.03.28-10.56.36:966][525]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2019.03.28-10.56.36:992][525]Lightmass on DESKTOP-L1DMM4S: 4.97 sec total, 91 ms importing, 43 ms setup, 806 ms photons, 4.00 sec processing, 0 ms extra exporting [134/134 mappings]. Threads: 19.9 sec total, 11.5 sec processing.
+[2019.03.28-10.56.37:044][525]LogStaticLightingSystem: Illumination: 10.0 sec (589 ms encoding lightmaps, 180 ms encoding shadowmaps)
+[2019.03.28-10.56.37:044][525]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.03.28-10.56.37:044][525]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.03.28-10.56.37:534][525]DumpUnbuiltLightIteractions
+[2019.03.28-10.56.37:534][525]Lights with unbuilt interactions: 0
+[2019.03.28-10.56.37:534][525]
+[2019.03.28-10.56.37:534][525]Primitives with unbuilt interactions: 0
+[2019.03.28-10.56.37:572][526]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.28-10.56.37:572][526]MapCheck: New page: PlayLevel - 28 Mar 2019 10:56:37
+[2019.03.28-10.56.37:620][526]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.611ms to complete.
+[2019.03.28-10.56.43:203][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.56.43:310][207]LogSlate: Window 'Message Log' being destroyed
+[2019.03.28-10.56.43:314][207]LogSlate: Window 'Message Log' being destroyed
+[2019.03.28-10.56.49:673][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.56.49:756][979]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-10.56.49:770][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.56.49:770][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-10.56.49:770][979]PIE: New page: PIE session: PlayLevel (28 Mar 2019 10:56:49)
+[2019.03.28-10.56.49:770][979]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-10.56.49:776][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005955s)
+[2019.03.28-10.56.49:777][979]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-10.56.49:777][979]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2019.03.28-10.56.49:777][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.007186s)
+[2019.03.28-10.56.49:800][979]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-10.56.49:808][979]LogInit: FAudioDevice initialized.
+[2019.03.28-10.56.49:843][979]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-10.56.49:847][979]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-10.56.49
+[2019.03.28-10.56.49:848][979]LogWorld: Bringing up level for play took: 0.003599
+[2019.03.28-10.56.49:850][979]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel 0.718
+[2019.03.28-10.56.49:850][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.57.03:210][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.57.03:246][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.57.09:630][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling25)
+[2019.03.28-10.57.10:142][386]LogEditorViewport: Clicking on Actor (LMB): LightBox_Blueprint_C (LightBox_Blueprint)
+[2019.03.28-10.57.12:695][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.57.24:610][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.28-10.57.28:180][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.57.37:945][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.57.49:089][961]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.28-10.57.51:809][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.57.51:875][280]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-10.57.51:888][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.57.51:888][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-10.57.51:888][280]PIE: New page: PIE session: PlayLevel (28 Mar 2019 10:57:51)
+[2019.03.28-10.57.51:888][280]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-10.57.51:894][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005336s)
+[2019.03.28-10.57.51:894][280]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-10.57.51:894][280]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2019.03.28-10.57.51:894][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.005956s)
+[2019.03.28-10.57.51:914][280]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-10.57.51:921][280]LogInit: FAudioDevice initialized.
+[2019.03.28-10.57.51:952][280]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-10.57.51:956][280]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-10.57.51
+[2019.03.28-10.57.51:956][280]LogWorld: Bringing up level for play took: 0.002935
+[2019.03.28-10.57.51:958][280]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel 0.826
+[2019.03.28-10.57.51:958][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.57.59:690][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.57.59:725][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.58.02:722][556]LogEditorViewport: Clicking on Actor (LMB): LightBox_Blueprint_C (LightBox_Blueprint)
+[2019.03.28-10.58.05:013][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.58.28:106][534]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.28-10.58.40:032][930]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-10.58.40:050][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.58.40:051][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-10.58.40:051][930]PIE: New page: PIE session: PlayLevel (28 Mar 2019 10:58:40)
+[2019.03.28-10.58.40:051][930]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-10.58.40:057][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006030s)
+[2019.03.28-10.58.40:057][930]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-10.58.40:057][930]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2019.03.28-10.58.40:057][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.006685s)
+[2019.03.28-10.58.40:080][930]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-10.58.40:087][930]LogInit: FAudioDevice initialized.
+[2019.03.28-10.58.40:121][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-10.58.40:124][930]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-10.58.40
+[2019.03.28-10.58.40:125][930]LogWorld: Bringing up level for play took: 0.002861
+[2019.03.28-10.58.40:126][930]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel 0.995
+[2019.03.28-10.58.40:126][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.58.51:254][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.58.51:289][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-10.58.55:784][795]LogEditorViewport: Clicking on Actor (LMB): LightBox_Blueprint_C (LightBox_Blueprint)
+[2019.03.28-10.59.08:760][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-10.59.42:662][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.03.11:333][682]LogSavePackage: Save=186.28ms
+[2019.03.28-11.03.11:333][682]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/PlayLevel_Auto452E2515C4FA4263A6BE0C69B5E499ED9.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto4.umap'
+[2019.03.28-11.03.11:333][682]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto4.umap
+[2019.03.28-11.03.11:335][682]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelDesign/Maps/PlayLevel' took 0.214
+[2019.03.28-11.03.11:335][682]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.214
+[2019.03.28-11.03.11:337][682]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelDesign/Maps/PlayLevel_BuiltData] ([1] browsable assets)...
+[2019.03.28-11.03.11:337][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Maps/PlayLevel_BuiltData]
+[2019.03.28-11.03.11:391][682]LogSavePackage: Save=14.61ms
+[2019.03.28-11.03.11:391][682]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/PlayLevel_BuiltData_Auto47B4D679B48BB53657D02CB8B8D8AA045.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_BuiltData_Auto4.uasset'
+[2019.03.28-11.03.11:391][682]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_BuiltData_Auto4.uasset
+[2019.03.28-11.03.11:391][682]LogFileHelpers: Auto-saving content packages took 0.055
+[2019.03.28-11.03.12:436][686]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-11.03.12:440][686]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-11.03.19:982][371]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269dba1dba8, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.04.09:633][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269dba1dba8, Size=4
+[2019.03.28-11.04.09:633][823]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e471de98, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_84:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.04.09:635][823]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e471db40, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.04.15:785][521]BlueprintLog: New page: Compile PlayLevel
+[2019.03.28-11.04.15:787][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e471db40, Size=4
+[2019.03.28-11.04.15:787][521]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269dba1e0f8, Size=4, SKEL_PlayLevel_C_0 Function /Engine/Transient.REINST_SKEL_PlayLevel_C_86:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.04.15:789][521]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a028aace0, Size=24, Default__PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.04.15:865][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269dba1e0f8, Size=4
+[2019.03.28-11.04.15:865][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e471de98, Size=4
+[2019.03.28-11.04.18:763][622]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.28-11.04.18:767][622]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.28-11.04.19:467][702]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-11.04.19:482][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.04.19:482][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-11.04.19:482][702]PIE: New page: PIE session: PlayLevel (28 Mar 2019 11:04:19)
+[2019.03.28-11.04.19:482][702]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-11.04.19:488][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005765s)
+[2019.03.28-11.04.19:489][702]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-11.04.19:489][702]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2019.03.28-11.04.19:489][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.006433s)
+[2019.03.28-11.04.19:511][702]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-11.04.19:518][702]LogInit: FAudioDevice initialized.
+[2019.03.28-11.04.19:551][702]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-11.04.19:554][702]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-11.04.19
+[2019.03.28-11.04.19:555][702]LogWorld: Bringing up level for play took: 0.002842
+[2019.03.28-11.04.19:556][702]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel 0.425
+[2019.03.28-11.04.19:557][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.04.34:782][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.04.34:819][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.04.37:414][829]LogEditorViewport: Clicking on Actor (LMB): Lever_C (Lever)
+[2019.03.28-11.04.38:147][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.05.16:284][845]LogEditorTransaction: Undo Add Node
+[2019.03.28-11.05.16:286][845]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a25dc9c48, Size=4, Default__SKEL_Lever_C Function /Game/LevelDesign/Blueprints/Lever.SKEL_Lever_C:ExecuteUbergraph_Lever
+[2019.03.28-11.09.11:807][632]BlueprintLog: New page: Compile Lever
+[2019.03.28-11.09.11:811][632]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a25dc9c48, Size=4
+[2019.03.28-11.09.11:811][632]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e471edd0, Size=4, Default__SKEL_Lever_C Function /Engine/Transient.REINST_SKEL_Lever_C_92:ExecuteUbergraph_Lever
+[2019.03.28-11.09.11:815][632]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a1701ca00, Size=184
+[2019.03.28-11.09.11:815][632]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a15f5b700, Size=184, Default__Lever_C Function /Engine/Transient.REINST_Lever_C_94:ExecuteUbergraph_Lever
+[2019.03.28-11.09.11:818][632]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a57a7da80, Size=288, Default__Lever_C Function /Game/LevelDesign/Blueprints/Lever.Lever_C:ExecuteUbergraph_Lever
+[2019.03.28-11.09.12:089][632]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e471edd0, Size=4
+[2019.03.28-11.09.14:032][822]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-11.09.14:036][822]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-11.09.16:017][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-11.09.16:031][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.09.16:031][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-11.09.16:031][ 42]PIE: New page: PIE session: PlayLevel (28 Mar 2019 11:09:16)
+[2019.03.28-11.09.16:031][ 42]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-11.09.16:037][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005645s)
+[2019.03.28-11.09.16:037][ 42]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-11.09.16:037][ 42]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.03.28-11.09.16:037][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.006318s)
+[2019.03.28-11.09.16:053][ 42]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a15f5b700, Size=184
+[2019.03.28-11.09.16:060][ 42]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-11.09.16:067][ 42]LogInit: FAudioDevice initialized.
+[2019.03.28-11.09.16:097][ 42]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-11.09.16:100][ 42]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-11.09.16
+[2019.03.28-11.09.16:101][ 42]LogWorld: Bringing up level for play took: 0.002813
+[2019.03.28-11.09.16:102][ 42]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel 0.971
+[2019.03.28-11.09.16:103][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.09.29:035][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.09.29:071][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.09.31:021][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.10.56:398][890]BlueprintLog: New page: Compile Lever
+[2019.03.28-11.10.56:417][890]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a57a7da80, Size=288
+[2019.03.28-11.10.56:417][890]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a16397240, Size=288, Default__Lever_C Function /Engine/Transient.REINST_Lever_C_98:ExecuteUbergraph_Lever
+[2019.03.28-11.10.56:419][890]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a54401d80, Size=192, Default__Lever_C Function /Game/LevelDesign/Blueprints/Lever.Lever_C:ExecuteUbergraph_Lever
+[2019.03.28-11.10.57:914][ 33]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a16397240, Size=288
+[2019.03.28-11.10.58:025][ 33]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a028aace0, Size=24
+[2019.03.28-11.10.58:025][ 33]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e428b328, Size=24, Default__PlayLevel_C Function /Engine/Transient.REINST_PlayLevel_C_102:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.10.58:026][ 33]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e428ae90, Size=24, Default__PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.10.58:198][ 33]LogSavePackage: Save=176.89ms
+[2019.03.28-11.10.58:198][ 33]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/PlayLevel8E03469C427DFFAF767E40A507687A81.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap'
+[2019.03.28-11.10.58:202][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap
+[2019.03.28-11.10.58:224][ 33]LogFileHelpers: Saving map 'PlayLevel' took 0.289
+[2019.03.28-11.10.58:226][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Maps/PlayLevel_BuiltData" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel_BuiltData.uasset" SILENT=true
+[2019.03.28-11.10.58:419][ 33]LogSavePackage: Save=185.19ms
+[2019.03.28-11.10.58:419][ 33]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/PlayLevel_BuiltDataA370047845B67D98D50A778C1A3B5E97.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel_BuiltData.uasset'
+[2019.03.28-11.10.58:422][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel_BuiltData.uasset
+[2019.03.28-11.10.58:475][ 33]LogSavePackage: Save=28.50ms
+[2019.03.28-11.10.58:475][ 33]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/ThirdPersonCharacter44AB3D4644645A29E561AFBB441E1B86.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.03.28-11.10.58:478][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2019.03.28-11.10.58:491][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Blueprints/Lever" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Blueprints/Lever.uasset" SILENT=true
+[2019.03.28-11.10.58:514][ 33]LogSavePackage: Save=21.11ms
+[2019.03.28-11.10.58:514][ 33]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/LeverA06D0FFA46A4F81CAAAF2CB54C0C23F5.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Blueprints/Lever.uasset'
+[2019.03.28-11.10.58:517][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Blueprints/Lever.uasset
+[2019.03.28-11.11.00:322][244]LogSlate: Window 'Lever' being destroyed
+[2019.03.28-11.11.00:326][244]LogSlate: Window 'Lever' being destroyed
+[2019.03.28-11.11.01:094][328]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-11.11.01:105][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.11.01:106][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-11.11.01:106][328]PIE: New page: PIE session: PlayLevel (28 Mar 2019 11:11:01)
+[2019.03.28-11.11.01:106][328]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-11.11.01:111][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005389s)
+[2019.03.28-11.11.01:112][328]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-11.11.01:112][328]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2019.03.28-11.11.01:112][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.006048s)
+[2019.03.28-11.11.01:127][328]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e428b328, Size=24
+[2019.03.28-11.11.01:133][328]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-11.11.01:140][328]LogInit: FAudioDevice initialized.
+[2019.03.28-11.11.01:174][328]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-11.11.01:177][328]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-11.11.01
+[2019.03.28-11.11.01:178][328]LogWorld: Bringing up level for play took: 0.002920
+[2019.03.28-11.11.01:179][328]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel 0.048
+[2019.03.28-11.11.01:179][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.11.16:108][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.11.16:140][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.11.25:875][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.12.23:172][823]BlueprintLog: New page: Compile Lever
+[2019.03.28-11.12.23:178][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a54401d80, Size=192
+[2019.03.28-11.12.23:178][823]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a0f87f7c0, Size=192, Default__Lever_C Function /Engine/Transient.REINST_Lever_C_106:ExecuteUbergraph_Lever
+[2019.03.28-11.12.23:180][823]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a0f87c700, Size=192, Default__Lever_C Function /Game/LevelDesign/Blueprints/Lever.Lever_C:ExecuteUbergraph_Lever
+[2019.03.28-11.12.24:291][924]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-11.12.24:296][924]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-11.12.24:869][985]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-11.12.24:880][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.12.24:881][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-11.12.24:881][985]PIE: New page: PIE session: PlayLevel (28 Mar 2019 11:12:24)
+[2019.03.28-11.12.24:881][985]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-11.12.24:886][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005267s)
+[2019.03.28-11.12.24:886][985]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-11.12.24:887][985]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2019.03.28-11.12.24:887][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.005909s)
+[2019.03.28-11.12.24:901][985]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a0f87f7c0, Size=192
+[2019.03.28-11.12.24:908][985]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-11.12.24:914][985]LogInit: FAudioDevice initialized.
+[2019.03.28-11.12.24:949][985]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-11.12.24:952][985]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-11.12.24
+[2019.03.28-11.12.24:952][985]LogWorld: Bringing up level for play took: 0.002745
+[2019.03.28-11.12.24:954][985]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel -0.177
+[2019.03.28-11.12.24:954][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.12.49:175][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.12.49:211][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.12.51:606][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.12.56:351][698]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a03175158, Size=4, Default__SKEL_Lever_C Function /Game/LevelDesign/Blueprints/Lever.SKEL_Lever_C:ExecuteUbergraph_Lever
+[2019.03.28-11.13.18:545][264]BlueprintLog: New page: Compile Lever
+[2019.03.28-11.13.18:548][264]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a03175158, Size=4
+[2019.03.28-11.13.18:548][264]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a030bf248, Size=4, Default__SKEL_Lever_C Function /Engine/Transient.REINST_SKEL_Lever_C_110:ExecuteUbergraph_Lever
+[2019.03.28-11.13.18:552][264]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a0f87c700, Size=192
+[2019.03.28-11.13.18:552][264]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026995a12a40, Size=192, Default__Lever_C Function /Engine/Transient.REINST_Lever_C_112:ExecuteUbergraph_Lever
+[2019.03.28-11.13.18:553][264]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026995a12500, Size=192, Default__Lever_C Function /Game/LevelDesign/Blueprints/Lever.Lever_C:ExecuteUbergraph_Lever
+[2019.03.28-11.13.18:790][264]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a030bf248, Size=4
+[2019.03.28-11.13.19:808][381]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-11.13.19:813][381]LogSlate: Window 'Lever*' being destroyed
+[2019.03.28-11.13.22:857][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.13.24:647][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.16.10:478][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.16.42:754][522]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a5e606908, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.13:947][936]LogEditorTransaction: Undo Create Pin Link
+[2019.03.28-11.17.13:947][936]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a5e606908, Size=4
+[2019.03.28-11.17.13:947][936]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02713478, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_116:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.13:948][936]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02711408, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.14:350][971]LogEditorTransaction: Undo Move Node
+[2019.03.28-11.17.14:350][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a02711408, Size=4
+[2019.03.28-11.17.14:350][971]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce3b0a8, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_118:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.14:351][971]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce3afa8, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.14:785][ 18]LogEditorTransaction: Undo Move Node
+[2019.03.28-11.17.14:786][ 18]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce3afa8, Size=4
+[2019.03.28-11.17.14:786][ 18]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce3afa8, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_120:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.14:786][ 18]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce392f8, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.15:115][ 54]LogEditorTransaction: Undo Move Node
+[2019.03.28-11.17.15:116][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce392f8, Size=4
+[2019.03.28-11.17.15:116][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce392f8, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_122:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.15:117][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce38c58, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.15:460][ 92]LogEditorTransaction: Undo Create Pin Link
+[2019.03.28-11.17.15:721][121]LogEditorTransaction: Undo Move Node
+[2019.03.28-11.17.15:722][121]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce38c58, Size=4
+[2019.03.28-11.17.15:722][121]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce38c58, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_124:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.15:723][121]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce3ac98, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.16:127][166]LogEditorTransaction: Undo Add Node
+[2019.03.28-11.17.16:128][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce3ac98, Size=4
+[2019.03.28-11.17.16:128][166]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce3ac98, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_126:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.16:129][166]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce3a428, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.16:490][206]LogEditorTransaction: Undo Move Node
+[2019.03.28-11.17.16:491][206]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce3a428, Size=4
+[2019.03.28-11.17.16:491][206]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce3a428, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_128:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.17.16:491][206]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269fce384e0, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.18.24:874][457]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce384e0, Size=4
+[2019.03.28-11.18.24:874][457]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02488de8, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_130:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.18.24:875][457]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02489a40, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.18.27:732][775]LogEditorViewport: Clicking Background
+[2019.03.28-11.18.28:435][857]LogEditorViewport: Clicking Background
+[2019.03.28-11.18.29:479][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.18.34:913][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.18.40:853][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LightFloor)
+[2019.03.28-11.18.53:813][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor21)
+[2019.03.28-11.18.55:499][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor18)
+[2019.03.28-11.18.56:071][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor16)
+[2019.03.28-11.19.01:581][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.19.02:789][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.19.05:514][ 75]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a02489a40, Size=4
+[2019.03.28-11.19.05:514][ 75]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a5e6042c8, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_132:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.19.05:515][ 75]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a5e604138, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.19.27:318][355]BlueprintLog: New page: Compile PlayLevel
+[2019.03.28-11.19.27:321][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a5e604138, Size=4
+[2019.03.28-11.19.27:321][355]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a623bde08, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_134:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.19.27:323][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e428ae90, Size=24
+[2019.03.28-11.19.27:323][355]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a60a42248, Size=24, Default__PlayLevel_C Function /Engine/Transient.REINST_PlayLevel_C_136:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.19.27:324][355]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a687203a0, Size=96, Default__PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a02488de8, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce3a428, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce3ac98, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce38c58, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce392f8, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce3afa8, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a623bde08, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a5e6042c8, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026995a12a40, Size=192
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269fce3b0a8, Size=4
+[2019.03.28-11.19.27:399][355]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a02713478, Size=4
+[2019.03.28-11.19.28:846][517]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.28-11.19.28:851][517]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.28-11.19.29:444][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor22)
+[2019.03.28-11.19.30:355][678]LogEditorViewport: Clicking on Actor (LMB): Pickup_Blueprint_C (Pickup_Blueprint2)
+[2019.03.28-11.19.30:628][704]LogEditorViewport: Clicking on Actor (context menu): Pickup_Blueprint_C (Pickup_Blueprint2)
+[2019.03.28-11.19.30:649][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.19.33:967][ 62]Cmd: DELETE
+[2019.03.28-11.19.33:969][ 62]Cmd: ACTOR DELETE
+[2019.03.28-11.19.33:971][ 62]LogEditorActor: Deleted Actor: Pickup_Blueprint_C
+[2019.03.28-11.19.33:985][ 62]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a60a42248, Size=24
+[2019.03.28-11.19.33:987][ 62]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.03.28-11.19.34:954][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.19.35:029][186]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-11.19.35:041][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.19.35:041][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-11.19.35:041][186]PIE: New page: PIE session: PlayLevel (28 Mar 2019 11:19:35)
+[2019.03.28-11.19.35:041][186]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-11.19.35:047][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005483s)
+[2019.03.28-11.19.35:047][186]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-11.19.35:047][186]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2019.03.28-11.19.35:047][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.006150s)
+[2019.03.28-11.19.35:067][186]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-11.19.35:074][186]LogInit: FAudioDevice initialized.
+[2019.03.28-11.19.35:108][186]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-11.19.35:112][186]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-11.19.35
+[2019.03.28-11.19.35:112][186]LogWorld: Bringing up level for play took: 0.002920
+[2019.03.28-11.19.35:114][186]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel -0.018
+[2019.03.28-11.19.35:114][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.19.56:833][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.19.56:865][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.20.03:417][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.20.06:535][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.20.42:597][118]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a69fb78d0, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.20.47:617][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a69fb78d0, Size=4
+[2019.03.28-11.20.47:617][705]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02342a30, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_140:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.20.47:618][705]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02340450, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.22.06:041][500]BlueprintLog: New page: Compile PlayLevel
+[2019.03.28-11.22.06:044][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a02340450, Size=4
+[2019.03.28-11.22.06:044][500]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a0370c630, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_142:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.22.06:046][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a687203a0, Size=96
+[2019.03.28-11.22.06:046][500]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a10f9b220, Size=96, Default__PlayLevel_C Function /Engine/Transient.REINST_PlayLevel_C_144:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.22.06:047][500]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a10f984c0, Size=96, Default__PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.22.06:121][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a0370c630, Size=4
+[2019.03.28-11.22.06:121][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a02342a30, Size=4
+[2019.03.28-11.22.11:779][161]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.28-11.23.02:645][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a10f9b220, Size=96
+[2019.03.28-11.23.02:662][ 11]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a10f984c0, Size=96
+[2019.03.28-11.23.02:662][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a149cc700, Size=96, Default__PlayLevel_C Function /Engine/Transient.REINST_PlayLevel_C_148:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.23.02:663][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a0447f580, Size=96, Default__PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.23.02:835][ 11]LogSavePackage: Save=178.56ms
+[2019.03.28-11.23.02:835][ 11]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/PlayLevel_Auto5DBB34A64452320FE02EE0E8F9FA12B56.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto5.umap'
+[2019.03.28-11.23.02:836][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto5.umap
+[2019.03.28-11.23.02:839][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelDesign/Maps/PlayLevel' took 0.210
+[2019.03.28-11.23.02:839][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2019.03.28-11.23.02:841][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Blueprints/Lever] ([1] browsable assets)...
+[2019.03.28-11.23.02:851][ 11]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelDesign/Blueprints/Lever.Lever]
+[2019.03.28-11.23.02:851][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Blueprints/Lever]
+[2019.03.28-11.23.02:877][ 11]LogSavePackage: Save=20.57ms
+[2019.03.28-11.23.02:877][ 11]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Lever_Auto506C1316F45EF847561F8359EF88EDA87.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Blueprints/Lever_Auto5.uasset'
+[2019.03.28-11.23.02:878][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Blueprints/Lever_Auto5.uasset
+[2019.03.28-11.23.02:878][ 11]LogFileHelpers: Auto-saving content packages took 0.038
+[2019.03.28-11.23.04:317][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.25.06:631][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/LevelItemsList" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/LevelItemsList.uasset" SILENT=true
+[2019.03.28-11.25.06:660][643]LogSavePackage: Save=23.07ms
+[2019.03.28-11.25.06:660][643]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/LevelItemsList0E6711D34E249260709CAA9575678726.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/LevelItemsList.uasset'
+[2019.03.28-11.25.06:663][643]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/LevelItemsList.uasset
+[2019.03.28-11.25.07:866][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.25.07:937][794]LogSlate: Window 'LevelItemsList' being destroyed
+[2019.03.28-11.25.07:940][794]LogSlate: Window 'LevelItemsList' being destroyed
+[2019.03.28-11.25.12:957][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor7)
+[2019.03.28-11.25.13:952][494]LogEditorViewport: Clicking on Actor (LMB): Pickup_Blueprint_C (Pickup_Blueprint)
+[2019.03.28-11.25.21:548][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.25.23:083][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.25.27:238][925]BlueprintLog: New page: Compile PlayLevel
+[2019.03.28-11.25.27:261][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a0447f580, Size=96
+[2019.03.28-11.25.27:261][925]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a10f9a560, Size=96, PlayLevel_C_1 Function /Engine/Transient.REINST_PlayLevel_C_152:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.25.27:262][925]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a10f9ad40, Size=96, Default__PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.25.28:762][ 71]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.28-11.25.28:766][ 71]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.28-11.25.31:244][360]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a10f9a560, Size=96
+[2019.03.28-11.25.31:253][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.25.31:328][360]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a10f9ad40, Size=96
+[2019.03.28-11.25.31:328][360]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269ec00fa00, Size=96, PlayLevel_C_2 Function /Engine/Transient.REINST_PlayLevel_C_156:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.25.31:329][360]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269ec00e3e0, Size=96, Default__PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.28-11.25.31:498][360]LogSavePackage: Save=175.92ms
+[2019.03.28-11.25.31:498][360]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/PlayLevelC924523C4951E7096683698A53A57250.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap'
+[2019.03.28-11.25.31:501][360]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap
+[2019.03.28-11.25.31:521][360]LogFileHelpers: Saving map 'PlayLevel' took 0.263
+[2019.03.28-11.25.31:533][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Provision/Doorset_DoorFrame_Blueprint" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/Provision/Doorset_DoorFrame_Blueprint.uasset" SILENT=true
+[2019.03.28-11.25.31:577][360]LogSavePackage: Save=38.83ms
+[2019.03.28-11.25.31:577][360]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Doorset_DoorFrame_BlueprintEE21BB6944AB0809F0E82797B95951C2.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/Provision/Doorset_DoorFrame_Blueprint.uasset'
+[2019.03.28-11.25.31:581][360]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/Provision/Doorset_DoorFrame_Blueprint.uasset
+[2019.03.28-11.25.31:593][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Provision/Pickup_Blueprint" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/Provision/Pickup_Blueprint.uasset" SILENT=true
+[2019.03.28-11.25.31:619][360]LogSavePackage: Save=20.29ms
+[2019.03.28-11.25.31:619][360]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/Pickup_BlueprintA282BA774222DC32E89F429080433DF6.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/Provision/Pickup_Blueprint.uasset'
+[2019.03.28-11.25.31:621][360]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/Provision/Pickup_Blueprint.uasset
+[2019.03.28-11.25.31:623][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Blueprints/Lever" FILE="../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Blueprints/Lever.uasset" SILENT=true
+[2019.03.28-11.25.31:638][360]LogSavePackage: Save=13.49ms
+[2019.03.28-11.25.31:638][360]LogSavePackage: Moving '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Saved/LeverC1FC814746CD00BDE1350382DC1A7F4A.tmp' to '../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Blueprints/Lever.uasset'
+[2019.03.28-11.25.31:639][360]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/3DLevelDesign/TheDen/TheDen/Content/LevelDesign/Blueprints/Lever.uasset
+[2019.03.28-11.25.31:979][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.25.32:037][407]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-11.25.32:053][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.25.32:053][407]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.28-11.25.32:059][407]LogPlayLevel: [PlayLevel] Compiling Doorset_DoorFrame_Blueprint before play...
+[2019.03.28-11.25.32:065][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e487bd80, Size=264
+[2019.03.28-11.25.32:065][407]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a60b48a40, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Engine/Transient.REINST_Doorset_DoorFrame_Blueprint_C_160:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.03.28-11.25.32:081][407]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a60b4b9c0, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Game/Provision/Doorset_DoorFrame_Blueprint.Doorset_DoorFrame_Blueprint_C:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.03.28-11.25.32:368][407]LogPlayLevel: [PlayLevel] Compiling Pickup_Blueprint before play...
+[2019.03.28-11.25.32:371][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269e489c720, Size=224
+[2019.03.28-11.25.32:371][407]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269d1a6fac0, Size=224, Default__Pickup_Blueprint_C Function /Engine/Transient.REINST_Pickup_Blueprint_C_166:ExecuteUbergraph_Pickup_Blueprint
+[2019.03.28-11.25.32:372][407]LogUObjectGlobals: Created PersistentFrame Addr=0x00000269e419fac0, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2019.03.28-11.25.32:570][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a01fd61f0, Size=4
+[2019.03.28-11.25.32:570][407]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02c5aaa0, Size=4, SKEL_PROTO_BP_AnimBlueprint_0_C_0 Function /Engine/Transient.REINST_SKEL_PROTO_BP_AnimBlueprint_0_C_1:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.28-11.25.32:571][407]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.03.28-11.25.32:571][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a01fd61e8, Size=4
+[2019.03.28-11.25.32:571][407]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02c5a390, Size=4, PROTO_BP_AnimBlueprint_0_C_0 Function /Engine/Transient.REINST_PROTO_BP_AnimBlueprint_0_C_2:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.28-11.25.32:579][407]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026a02c58e40, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.28-11.25.32:606][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a60b48a40, Size=264
+[2019.03.28-11.25.32:606][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269d1a6fac0, Size=224
+[2019.03.28-11.25.32:606][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000269ec00fa00, Size=96
+[2019.03.28-11.25.32:606][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a149cc700, Size=96
+[2019.03.28-11.25.32:606][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a02c5aaa0, Size=4
+[2019.03.28-11.25.32:607][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026a02c5a390, Size=4
+[2019.03.28-11.25.32:607][407]LogPlayLevel: PlayLevel: Blueprint regeneration took 554 ms (3 blueprints)
+[2019.03.28-11.25.32:607][407]PIE: New page: PIE session: PlayLevel (28 Mar 2019 11:25:32)
+[2019.03.28-11.25.32:607][407]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-11.25.32:613][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005661s)
+[2019.03.28-11.25.32:614][407]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-11.25.32:614][407]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2019.03.28-11.25.32:614][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.006564s)
+[2019.03.28-11.25.32:635][407]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-11.25.32:642][407]LogInit: FAudioDevice initialized.
+[2019.03.28-11.25.32:676][407]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-11.25.32:680][407]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-11.25.32
+[2019.03.28-11.25.32:680][407]LogWorld: Bringing up level for play took: 0.003075
+[2019.03.28-11.25.32:682][407]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel 1.551
+[2019.03.28-11.25.32:682][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.25.32:697][408]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080410 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.03.28-11.25.41:778][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.25.41:813][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.25.48:407][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor3)
+[2019.03.28-11.25.54:237][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor28)
+[2019.03.28-11.25.54:607][462]LogEditorViewport: Clicking on Actor (LMB): Doorset_DoorFrame_Blueprint_C (Doorset_DoorFrame_Blueprint2)
+[2019.03.28-11.25.56:285][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.25.58:905][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.28-11.25.58:988][959]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.28-11.25.59:001][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.25.59:001][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.28-11.25.59:001][959]PIE: New page: PIE session: PlayLevel (28 Mar 2019 11:25:59)
+[2019.03.28-11.25.59:001][959]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.28-11.25.59:007][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005632s)
+[2019.03.28-11.25.59:007][959]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.28-11.25.59:007][959]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2019.03.28-11.25.59:007][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.006256s)
+[2019.03.28-11.25.59:028][959]LogInit: XAudio2 using '2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.28-11.25.59:034][959]LogInit: FAudioDevice initialized.
+[2019.03.28-11.25.59:065][959]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.28-11.25.59:068][959]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.28-11.25.59
+[2019.03.28-11.25.59:069][959]LogWorld: Bringing up level for play took: 0.002898
+[2019.03.28-11.25.59:070][959]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel -0.061
+[2019.03.28-11.25.59:071][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.26.34:298][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.26.34:334][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.28-11.26.43:755][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.26.45:121][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.28-11.26.46:013][536]LogUObjectArray: Warning: Invalid object index -572662307
+[2019.03.28-11.26.47:079][536]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.055 s
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: 
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: Stack: 
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x00000000399CB706 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000003972AE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000003973ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000002FA13DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000003304B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000003155C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x00000000313E77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x00000000313EAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x0000000031526E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x0000000039066057 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000003906BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000003929C253 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x00000000390C0475 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x0000000039098360 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000003908B197 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000006193E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x0000000061931B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000006194052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000006192D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000008B526D41 USER32.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x000000008B526713 USER32.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x0000000061941666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.28-11.26.47:079][536]LogOutputDevice: Error: [Callstack] 0x00000000E36B5475 UE4Editor.exe!UnknownFunction []
+[2019.03.28-11.26.47:080][536]LogOutputDevice: Error: [Callstack] 0x00000000E36C6BD0 UE4Editor.exe!UnknownFunction []
+[2019.03.28-11.26.47:080][536]LogOutputDevice: Error: [Callstack] 0x00000000E36C6C4A UE4Editor.exe!UnknownFunction []
+[2019.03.28-11.26.47:080][536]LogOutputDevice: Error: [Callstack] 0x00000000E36D4177 UE4Editor.exe!UnknownFunction []
+[2019.03.28-11.26.47:080][536]LogOutputDevice: Error: [Callstack] 0x00000000E36D5B87 UE4Editor.exe!UnknownFunction []
+[2019.03.28-11.26.47:080][536]LogOutputDevice: Error: [Callstack] 0x000000008B713DC4 KERNEL32.DLL!UnknownFunction []
+[2019.03.28-11.26.47:080][536]LogOutputDevice: Error: [Callstack] 0x000000008CB43691 ntdll.dll!UnknownFunction []
+[2019.03.28-11.26.47:080][536]LogOutputDevice: Error: 
+[2019.03.28-11.26.47:089][536]LogStats:                SubmitErrorReport -  0.000 s
