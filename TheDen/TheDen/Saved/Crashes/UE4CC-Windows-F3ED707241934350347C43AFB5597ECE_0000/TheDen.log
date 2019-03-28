@@ -1,0 +1,1052 @@
+﻿Log file open, 03/26/19 09:18:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDen
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1990939898) SRandInit(1990939899).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291681
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.955s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am W65172 (10.50.50.106:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.26-09.18.54:740][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.26-09.18.54:741][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.26-09.18.54:760][  0]LogInit: Computer: W65172
+[2019.03.26-09.18.54:760][  0]LogInit: User: 4russd83
+[2019.03.26-09.18.54:760][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.26-09.18.54:760][  0]LogInit: High frequency timer resolution =3.613282 MHz
+[2019.03.26-09.18.54:761][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.26-09.18.54:761][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.26-09.18.54:761][  0]LogMemory: Process Physical Memory: 275.51 MB used, 275.51 MB peak
+[2019.03.26-09.18.54:761][  0]LogMemory: Process Virtual Memory: 264.93 MB used, 264.93 MB peak
+[2019.03.26-09.18.54:761][  0]LogMemory: Physical Memory: 6990.17 MB used,  9311.99 MB free, 16302.16 MB total
+[2019.03.26-09.18.54:761][  0]LogMemory: Virtual Memory: 696.05 MB used,  9311.99 MB free, 134217728.00 MB total
+[2019.03.26-09.18.54:786][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.26-09.18.54:786][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.26-09.18.54:794][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.26-09.18.55:227][  0]LogStreaming: Display: Took  0.441s to EndInitTextLocalization.
+[2019.03.26-09.18.55:227][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.26-09.18.55:268][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.26-09.18.55:268][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.26-09.18.55:722][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.26-09.18.55:783][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2019.03.26-09.18.55:783][  0]LogD3D11RHI:       2017/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.26-09.18.55:785][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.26-09.18.55:785][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.26-09.18.55:785][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.26-09.18.55:793][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.26-09.18.55:794][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.26-09.18.55:794][  0]LogWindows: EnumDisplayDevices:
+[2019.03.26-09.18.55:794][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2019.03.26-09.18.55:794][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:1)
+[2019.03.26-09.18.55:794][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2019.03.26-09.18.55:794][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2019.03.26-09.18.55:794][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.26-09.18.55:794][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2019.03.26-09.18.55:794][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.26-09.18.55:794][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.26-09.18.55:795][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2019.03.26-09.18.55:834][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2019.03.26-09.18.55:834][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.26-09.18.55:834][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.26-09.18.55:855][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.26-09.18.55:900][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Intermediate/Shaders/WorkingDirectory/4404/).
+[2019.03.26-09.18.55:900][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/4russd83/AppData/Local/Temp/UnrealShaderWorkingDir/CDAD96634DABA98E56FE69B296A9E7ED/'.
+[2019.03.26-09.18.56:172][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.26-09.18.56:190][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.26-09.18.56:209][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.26-09.18.56:227][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.26-09.18.56:246][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.26-09.18.56:264][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.26-09.18.56:282][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.26-09.18.56:300][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.26-09.18.56:309][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.26-09.18.56:325][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.26-09.18.56:341][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.26-09.18.56:357][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.26-09.18.56:373][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.03.26-09.18.56:388][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.26-09.18.56:404][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.26-09.18.56:440][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.26-09.18.56:440][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.26-09.18.56:456][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.26-09.18.56:459][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.26-09.18.56:500][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.26-09.18.56:516][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.26-09.18.56:531][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.26-09.18.56:547][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.26-09.18.56:564][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.26-09.18.56:581][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.26-09.18.56:581][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.26-09.18.56:787][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.26-09.18.56:787][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.26-09.18.56:787][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.26-09.18.57:929][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.26-09.18.58:016][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/4russd83/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.26-09.18.58:017][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/4russd83/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.03.26-09.18.58:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.26-09.18.58:017][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.26-09.18.58:017][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.26-09.18.58:017][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.26-09.18.58:033][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.26-09.18.58:048][  0]LogDerivedDataCache: Using Local data cache path C:/Users/4russd83/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.26-09.18.58:048][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.26-09.18.58:048][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.26-09.18.58:067][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.26-09.18.58:067][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.26-09.18.58:070][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.26-09.18.58:070][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.26-09.18.58:303][  0]LogAssetRegistry: FAssetRegistry took 0.0292 seconds to start up
+[2019.03.26-09.18.58:800][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.26-09.18.59:009][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.26-09.18.59:013][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.26-09.18.59:013][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.26-09.18.59:013][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.26-09.18.59:013][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.26-09.18.59:013][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.26-09.18.59:078][  0]LogNetVersion: TheDen , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147918773)
+[2019.03.26-09.18.59:650][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.100951 seconds
+[2019.03.26-09.18.59:656][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.03.26-09.18.59:656][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.03.26-09.18.59:656][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.26-09.19.02:948][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.26-09.19.03:045][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.26-09.19.04:052][  0]SourceControl: Source control is disabled
+[2019.03.26-09.19.04:052][  0]SourceControl: Source control is disabled
+[2019.03.26-09.19.04:108][  0]SourceControl: Source control is disabled
+[2019.03.26-09.19.04:169][  0]SourceControl: Source control is disabled
+[2019.03.26-09.19.05:414][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.26-09.19.05:747][  0]LogOcInput: OculusInput pre-init called
+[2019.03.26-09.19.05:961][  0]LogEngine: Initializing Engine...
+[2019.03.26-09.19.05:963][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.26-09.19.05:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.26-09.19.05:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.26-09.19.06:243][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.26-09.19.06:255][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-09.19.06:284][  0]LogInit: FAudioDevice initialized.
+[2019.03.26-09.19.06:462][  0]LogDerivedDataCache: Saved boot cache 0.18s 74MB C:/Users/4russd83/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.03.26-09.19.06:482][  0]LogInit: Texture streaming: Enabled
+[2019.03.26-09.19.06:511][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.26-09.19.06:531][  0]LogInit: Transaction tracking system initialized
+[2019.03.26-09.19.06:563][  0]BlueprintLog: New page: Editor Load
+[2019.03.26-09.19.06:673][  0]LocalizationService: Localization service is disabled
+[2019.03.26-09.19.06:868][  0]LogConsoleResponse: Display: 
+[2019.03.26-09.19.07:064][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.26-09.19.07:064][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.26-09.19.07:064][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.26-09.19.07:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.26-09.19.07:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.26-09.19.07:834][  0]LogFileCache: Scanning file cache for directory 'C:/Users/4russd83/Downloads/TheDen/TheDen/Content/' took 0.02s
+[2019.03.26-09.19.07:834][  0]SourceControl: Source control is disabled
+[2019.03.26-09.19.07:834][  0]Cmd: MAP LOAD FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/Provision/StartingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.26-09.19.07:835][  0]LightingResults: New page: Lighting Build
+[2019.03.26-09.19.07:839][  0]MapCheck: New page: Map Check
+[2019.03.26-09.19.07:839][  0]LightingResults: New page: Lighting Build
+[2019.03.26-09.19.07:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b455c2530, Size=4, Default__LD_playerController_C Function /Game/LevelDesign/LD_playerController.LD_playerController_C:ExecuteUbergraph_LD_playerController
+[2019.03.26-09.19.07:989][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b455c2530, Size=4
+[2019.03.26-09.19.07:989][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b455c2530, Size=4, Default__LD_playerController_C Function /Engine/Transient.REINST_LD_playerController_C_5:ExecuteUbergraph_LD_playerController
+[2019.03.26-09.19.07:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b455c2470, Size=4, Default__LD_playerController_C Function /Game/LevelDesign/LD_playerController.LD_playerController_C:ExecuteUbergraph_LD_playerController
+[2019.03.26-09.19.08:022][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b3db18800, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.03.26-09.19.08:036][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b3db18800, Size=64
+[2019.03.26-09.19.08:036][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b45599680, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.03.26-09.19.08:047][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b4335a2a0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.03.26-09.19.08:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b432d3ec0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.03.26-09.19.08:108][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b432d3ec0, Size=296
+[2019.03.26-09.19.08:108][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b432d3ec0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_8:ExecuteUbergraph_ThirdPersonCharacter
+[2019.03.26-09.19.08:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b432d2700, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.03.26-09.19.08:127][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b432d1e40, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Game/Provision/Doorset_DoorFrame_Blueprint.Doorset_DoorFrame_Blueprint_C:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.03.26-09.19.08:133][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b432d1e40, Size=264
+[2019.03.26-09.19.08:133][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b432d1e40, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Engine/Transient.REINST_Doorset_DoorFrame_Blueprint_C_10:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.03.26-09.19.08:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b432d0cc0, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Game/Provision/Doorset_DoorFrame_Blueprint.Doorset_DoorFrame_Blueprint_C:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.03.26-09.19.08:157][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b43f11520, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2019.03.26-09.19.08:161][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b43f11520, Size=224
+[2019.03.26-09.19.08:161][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b43f11520, Size=224, Default__Pickup_Blueprint_C Function /Engine/Transient.REINST_Pickup_Blueprint_C_14:ExecuteUbergraph_Pickup_Blueprint
+[2019.03.26-09.19.08:163][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b43f10100, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2019.03.26-09.19.08:331][  0]LogTexture: Display: Building textures: WallPat (AutoDXT, 512X512)
+[2019.03.26-09.19.08:331][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.03.26-09.19.08:331][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.03.26-09.19.08:331][  0]LogTexture: Display: Building textures: FloorPat (AutoDXT, 512X512)
+[2019.03.26-09.19.08:331][  0]LogTexture: Display: Building textures: PillarNM (BC5, 1024X1024)
+[2019.03.26-09.19.08:331][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [13.771967ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.03.26-09.19.08:339][  0]LogStaticMesh: Building static mesh Pillar...
+[2019.03.26-09.19.08:348][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Provision/Mesh/Pillar.Pillar
+[2019.03.26-09.19.08:350][  0]LogStaticMesh: Building static mesh FloorPlan...
+[2019.03.26-09.19.08:361][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Provision/FloorPlan.FloorPlan
+[2019.03.26-09.19.08:365][  0]LogMaterial: Missing cached shader map for material WorldMaterial, compiling. 
+[2019.03.26-09.19.08:413][  0]LogMaterial: Missing cached shader map for material PillarNM_Mat, compiling. 
+[2019.03.26-09.19.08:425][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.26-09.19.08:425][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.26-09.19.08:425][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.26-09.19.08:425][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.26-09.19.08:425][  0]LogStaticMesh: Building static mesh Pickup...
+[2019.03.26-09.19.08:428][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Provision/Mesh/Pickup.Pickup
+[2019.03.26-09.19.08:437][  0]LogMaterial: Missing cached shader map for material BrightLight, compiling. 
+[2019.03.26-09.19.08:441][  0]LogStaticMesh: Building static mesh LightBox...
+[2019.03.26-09.19.08:443][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Provision/Mesh/LightBox.LightBox
+[2019.03.26-09.19.08:443][  0]LogStaticMesh: Building static mesh Doorset_DoorSlider...
+[2019.03.26-09.19.08:458][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Provision/Mesh/Doorset_DoorSlider.Doorset_DoorSlider
+[2019.03.26-09.19.08:460][  0]LogStaticMesh: Building static mesh Doorset_DoorFrame...
+[2019.03.26-09.19.08:465][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Provision/Mesh/Doorset_DoorFrame.Doorset_DoorFrame
+[2019.03.26-09.19.08:576][  0]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.26-09.19.08:576][  0]LogAIModule: Creating AISystem for world StartingMap
+[2019.03.26-09.19.08:591][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.26-09.19.08:609][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b455c2530, Size=4
+[2019.03.26-09.19.08:609][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b45599680, Size=64
+[2019.03.26-09.19.08:609][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b432d3ec0, Size=296
+[2019.03.26-09.19.08:609][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b432d1e40, Size=264
+[2019.03.26-09.19.08:609][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b43f11520, Size=224
+[2019.03.26-09.19.08:611][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.26-09.19.08:776][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 164.921ms to complete.
+[2019.03.26-09.19.08:776][  0]LogFileHelpers: Loading map 'StartingMap' took 0.942
+[2019.03.26-09.19.08:975][  0]LogCollectionManager: Loaded 0 collections in 0.003587 seconds
+[2019.03.26-09.19.09:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/4russd83/Downloads/TheDen/TheDen/Saved/Collections/' took 0.01s
+[2019.03.26-09.19.09:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/4russd83/Downloads/TheDen/TheDen/Content/Developers/4russd83/Collections/' took 0.01s
+[2019.03.26-09.19.09:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/4russd83/Downloads/TheDen/TheDen/Content/Collections/' took 0.01s
+[2019.03.26-09.19.09:029][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.26-09.19.09:050][  0]LogContentBrowser: Native class hierarchy populated in 0.0208 seconds. Added 2452 classes and 558 folders.
+[2019.03.26-09.19.09:067][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.26-09.19.09:546][  0]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.26-09.19.09:546][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.26-09.19.09:558][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.03.26-09.19.09:599][  0]LogSlate: Took 0.009361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.26-09.19.09:607][  0]LogSlate: Took 0.004724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.26-09.19.09:631][  0]LogSlate: Took 0.013959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.26-09.19.09:812][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2019.03.26-09.19.10:281][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.19.10:313][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.03.26-09.19.10:349][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.26-09.19.10:349][  0]LogLoad: (Engine Initialization) Total time: 19.54 seconds
+[2019.03.26-09.19.10:349][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.26-09.19.10:742][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.26-09.19.10:810][  0]LogSlate: Took 0.001438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.26-09.19.11:368][  2]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.26-09.19.11:368][  2]LogAssetRegistry: Asset discovery search completed in 13.0871 seconds
+[2019.03.26-09.19.11:372][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.26-09.19.11:372][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000117 seconds (updated 0 objects)
+[2019.03.26-09.19.12:378][  6]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.26-09.19.16:355][ 17]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/4russd83/Downloads/TheDen/TheDen/Content/' took 5.65s
+[2019.03.26-09.19.50:018][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.21.36:953][361]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.26-09.21.38:959][361]LogSlate: Window 'Save Content' being destroyed
+[2019.03.26-09.21.39:125][361]LogSavePackage: Save=18.19ms
+[2019.03.26-09.21.39:125][361]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/PlayLevel75D1B3284E5E362DD770FCA2D03E8DD1.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap'
+[2019.03.26-09.21.39:137][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap
+[2019.03.26-09.21.39:137][361]LogFileHelpers: Saving map 'PlayLevel' took 0.169
+[2019.03.26-09.21.39:139][361]Cmd: MAP LOAD FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.26-09.21.39:140][361]LightingResults: New page: Lighting Build
+[2019.03.26-09.21.39:141][361]LoadErrors: New page: Loading map: PlayLevel.umap
+[2019.03.26-09.21.39:143][361]MapCheck: New page: Map Check
+[2019.03.26-09.21.39:143][361]LightingResults: New page: Lighting Build
+[2019.03.26-09.21.39:156][361]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.26-09.21.39:157][361]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.26-09.21.39:220][361]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.26-09.21.39:334][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.291ms to complete.
+[2019.03.26-09.21.39:335][361]LogFileHelpers: Loading map 'PlayLevel' took 0.197
+[2019.03.26-09.21.44:209][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.22.19:972][ 52]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.26-09.22.20:041][ 52]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/GreyBox.FBX)
+[2019.03.26-09.22.20:119][ 52]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2019.03.26-09.22.20:119][ 52]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2019.03.26-09.22.20:119][ 52]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2019.03.26-09.22.20:119][ 52]LogFbx: ItemName: Model, ItemCount : 1
+[2019.03.26-09.22.20:119][ 52]LogFbx: ItemName: Geometry, ItemCount : 1
+[2019.03.26-09.22.20:132][ 52]LogFbx: Loading FBX Scene from E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/GreyBox.FBX
+[2019.03.26-09.22.20:180][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-09.22.23:890][ 52]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.26-09.22.23:963][ 52]LogFbx: Loading FBX Scene from E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/GreyBox.FBX
+[2019.03.26-09.22.23:970][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-09.22.23:975][ 52]LogStaticMesh: Building static mesh GreyBox...
+[2019.03.26-09.22.24:001][ 52]LogStaticMesh: Built static mesh [0.03s] /Game/LevelDesign/Maps/Meshes/GreyBox.GreyBox
+[2019.03.26-09.22.24:003][ 52]LogStaticMesh: Warning: GreyBox has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-09.22.24:003][ 52]LogStaticMesh: Warning: GreyBox has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-09.22.24:026][ 52]FBXImport: Warning: GreyBox has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-09.22.24:026][ 52]FBXImport: Warning: GreyBox has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-09.22.24:075][ 52]LogAssetTools: Warning: Failed to import 'E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/GreyBox.uasset'. Unknown extension 'uasset'.
+[2019.03.26-09.22.24:080][ 52]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Wall.FBX)
+[2019.03.26-09.22.24:088][ 52]LogFbx: Loading FBX Scene from E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Wall.FBX
+[2019.03.26-09.22.24:095][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-09.22.24:099][ 52]LogStaticMesh: Building static mesh Wall...
+[2019.03.26-09.22.24:112][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/LevelDesign/Maps/Meshes/Wall.Wall
+[2019.03.26-09.22.24:131][ 52]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/CorridorFloor.FBX)
+[2019.03.26-09.22.24:140][ 52]LogFbx: Loading FBX Scene from E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/CorridorFloor.FBX
+[2019.03.26-09.22.24:146][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-09.22.24:148][ 52]LogStaticMesh: Building static mesh CorridorFloor...
+[2019.03.26-09.22.24:152][ 52]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/Maps/Meshes/Modular/CorridorFloor.CorridorFloor
+[2019.03.26-09.22.24:153][ 52]LogStaticMesh: Warning: CorridorFloor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.03.26-09.22.24:153][ 52]LogStaticMesh: Warning: CorridorFloor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.03.26-09.22.24:161][ 52]FBXImport: Warning: CorridorFloor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.03.26-09.22.24:161][ 52]FBXImport: Warning: CorridorFloor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.03.26-09.22.24:172][ 52]LogAssetTools: Warning: Failed to import 'E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/CorridorFloor.uasset'. Unknown extension 'uasset'.
+[2019.03.26-09.22.24:176][ 52]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/NormalFloor.FBX)
+[2019.03.26-09.22.24:184][ 52]LogFbx: Loading FBX Scene from E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/NormalFloor.FBX
+[2019.03.26-09.22.24:190][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-09.22.24:191][ 52]LogStaticMesh: Building static mesh NormalFloor...
+[2019.03.26-09.22.24:194][ 52]LogStaticMesh: Built static mesh [0.00s] /Game/LevelDesign/Maps/Meshes/Modular/NormalFloor.NormalFloor
+[2019.03.26-09.22.24:208][ 52]LogAssetTools: Warning: Failed to import 'E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/NormalFloor.uasset'. Unknown extension 'uasset'.
+[2019.03.26-09.22.24:211][ 52]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/Wall.FBX)
+[2019.03.26-09.22.24:219][ 52]LogFbx: Loading FBX Scene from E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/Wall.FBX
+[2019.03.26-09.22.24:226][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-09.22.24:229][ 52]LogStaticMesh: Building static mesh Wall...
+[2019.03.26-09.22.24:241][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/LevelDesign/Maps/Meshes/Modular/Wall.Wall
+[2019.03.26-09.22.24:260][ 52]LogAssetTools: Warning: Failed to import 'E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/Wall.uasset'. Unknown extension 'uasset'.
+[2019.03.26-09.22.24:264][ 52]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/WindowWall.FBX)
+[2019.03.26-09.22.24:272][ 52]LogFbx: Loading FBX Scene from E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/WindowWall.FBX
+[2019.03.26-09.22.24:278][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.26-09.22.24:280][ 52]LogStaticMesh: Building static mesh WindowWall...
+[2019.03.26-09.22.24:287][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/LevelDesign/Maps/Meshes/Modular/WindowWall.WindowWall
+[2019.03.26-09.22.24:305][ 52]LogAssetTools: Warning: Failed to import 'E:\Uni\Intro to Computer Art\SecondAssessment\TheDen\TheDen\Content\LevelDesign\Meshes/Modular/WindowWall.uasset'. Unknown extension 'uasset'.
+[2019.03.26-09.22.30:090][698]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-09.22.30:093][698]LogSlate: Window 'Message Log' being destroyed
+[2019.03.26-09.24.53:746][135]LogEditorViewport: Clicking Background
+[2019.03.26-09.24.59:565][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.25.02:043][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.25.02:274][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.25.02:350][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.25.02:426][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.25.02:842][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.25.03:909][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.25.05:805][276]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.03.26-09.25.05:974][277]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheDen
+[2019.03.26-09.25.05:974][277]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.03.26-09.25.05:974][277]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2019.03.26-09.25.05:974][277]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2019.03.26-09.25.05:974][277]LogTemp: BranchPath = W65172/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = W65172/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2019.03.26-09.25.05:974][277]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\4russd83\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.26-09.25.36:564][112]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.26-09.25.36:568][112]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.26-09.25.39:268][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.25.45:401][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.25.53:327][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.26.00:168][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.26.00:328][415]LogActorFactory: Actor Factory created NormalFloor
+[2019.03.26-09.26.00:835][460]LogActorFactory: Actor Factory created NormalFloor
+[2019.03.26-09.26.09:360][255]LogSlate: Took 0.011086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.26-09.26.09:913][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.26.15:998][872]Cmd: EDIT COPY
+[2019.03.26-09.26.16:838][948]Cmd: EDIT PASTE
+[2019.03.26-09.26.18:512][ 94]Cmd: EDIT PASTE
+[2019.03.26-09.26.23:715][562]Cmd: EDIT PASTE
+[2019.03.26-09.29.30:420][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor4)
+[2019.03.26-09.29.30:724][369]Cmd: EDIT COPY
+[2019.03.26-09.29.31:125][405]Cmd: EDIT PASTE
+[2019.03.26-09.29.35:175][768]Cmd: EDIT PASTE
+[2019.03.26-09.29.38:934][106]Cmd: EDIT COPY
+[2019.03.26-09.29.39:476][154]Cmd: EDIT PASTE
+[2019.03.26-09.29.41:766][355]Cmd: EDIT COPY
+[2019.03.26-09.29.42:005][376]Cmd: EDIT PASTE
+[2019.03.26-09.29.45:349][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor7)
+[2019.03.26-09.29.46:306][747]Cmd: EDIT COPY
+[2019.03.26-09.29.46:590][773]Cmd: EDIT PASTE
+[2019.03.26-09.29.48:674][951]Cmd: EDIT COPY
+[2019.03.26-09.29.48:937][973]Cmd: EDIT PASTE
+[2019.03.26-09.29.51:839][221]Cmd: EDIT PASTE
+[2019.03.26-09.29.52:411][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor8)
+[2019.03.26-09.29.53:252][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor7)
+[2019.03.26-09.29.54:028][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor11)
+[2019.03.26-09.29.55:863][550]Cmd: EDIT PASTE
+[2019.03.26-09.30.04:014][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.30.04:271][267]LogActorFactory: Actor Factory created Wall
+[2019.03.26-09.30.05:422][355]LogActorFactory: Actor Factory created Wall
+[2019.03.26-09.30.07:271][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.30.23:663][952]Cmd: EDIT COPY
+[2019.03.26-09.30.24:658][ 39]Cmd: EDIT PASTE
+[2019.03.26-09.30.29:014][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.30.45:726][825]Cmd: EDIT COPY
+[2019.03.26-09.30.46:135][860]Cmd: EDIT PASTE
+[2019.03.26-09.30.51:870][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.30.52:008][361]LogActorFactory: Actor Factory created WindowWall
+[2019.03.26-09.30.52:571][403]LogActorFactory: Actor Factory created WindowWall
+[2019.03.26-09.30.54:607][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.31.09:827][879]Cmd: EDIT COPY
+[2019.03.26-09.31.10:227][915]Cmd: EDIT PASTE
+[2019.03.26-09.31.22:053][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.03.26-09.31.23:076][ 36]Cmd: EDIT COPY
+[2019.03.26-09.31.23:533][ 76]Cmd: EDIT PASTE
+[2019.03.26-09.31.25:073][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.31.29:254][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.03.26-09.31.32:020][790]Cmd: EDIT PASTE
+[2019.03.26-09.31.34:133][968]Cmd: EDIT CUT
+[2019.03.26-09.31.34:143][968]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-09.31.34:154][968]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2019.03.26-09.31.36:005][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.03.26-09.31.37:158][283]Cmd: EDIT COPY
+[2019.03.26-09.31.37:475][310]Cmd: EDIT PASTE
+[2019.03.26-09.31.55:791][937]Cmd: EDIT PASTE
+[2019.03.26-09.31.59:392][248]Cmd: EDIT PASTE
+[2019.03.26-09.32.02:976][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.32.14:930][579]Cmd: EDIT COPY
+[2019.03.26-09.32.15:407][620]Cmd: EDIT PASTE
+[2019.03.26-09.32.17:607][805]Cmd: EDIT PASTE
+[2019.03.26-09.32.19:591][971]Cmd: EDIT PASTE
+[2019.03.26-09.32.35:134][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.32.35:283][319]LogActorFactory: Actor Factory created NormalFloor
+[2019.03.26-09.32.36:311][400]LogActorFactory: Actor Factory created NormalFloor
+[2019.03.26-09.32.37:591][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.32.39:970][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.32.46:006][223]Cmd: EDIT CUT
+[2019.03.26-09.32.46:011][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-09.32.46:021][223]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2019.03.26-09.32.46:755][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.32.46:924][316]LogActorFactory: Actor Factory created CorridorFloor
+[2019.03.26-09.32.47:997][433]LogActorFactory: Actor Factory created CorridorFloor
+[2019.03.26-09.32.49:410][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.32.58:956][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CorridorFloor)
+[2019.03.26-09.32.59:776][421]Cmd: EDIT COPY
+[2019.03.26-09.33.00:723][503]Cmd: EDIT PASTE
+[2019.03.26-09.33.06:933][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor)
+[2019.03.26-09.33.07:779][101]Cmd: EDIT COPY
+[2019.03.26-09.33.08:174][135]Cmd: EDIT PASTE
+[2019.03.26-09.33.11:222][395]Cmd: EDIT PASTE
+[2019.03.26-09.33.16:158][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor13)
+[2019.03.26-09.33.17:155][906]Cmd: EDIT COPY
+[2019.03.26-09.33.17:412][929]Cmd: EDIT PASTE
+[2019.03.26-09.33.19:361][ 93]Cmd: EDIT PASTE
+[2019.03.26-09.33.24:183][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor14)
+[2019.03.26-09.33.25:199][592]Cmd: EDIT COPY
+[2019.03.26-09.33.25:518][619]Cmd: EDIT PASTE
+[2019.03.26-09.33.27:673][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor16)
+[2019.03.26-09.33.28:823][897]Cmd: EDIT COPY
+[2019.03.26-09.33.29:088][919]Cmd: EDIT PASTE
+[2019.03.26-09.33.31:291][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor15)
+[2019.03.26-09.33.32:069][170]Cmd: EDIT COPY
+[2019.03.26-09.33.32:374][197]Cmd: EDIT PASTE
+[2019.03.26-09.33.35:748][489]Cmd: EDIT COPY
+[2019.03.26-09.33.36:100][519]Cmd: EDIT PASTE
+[2019.03.26-09.33.37:639][647]Cmd: EDIT PASTE
+[2019.03.26-09.33.44:094][191]Cmd: EDIT COPY
+[2019.03.26-09.33.44:420][217]Cmd: EDIT PASTE
+[2019.03.26-09.33.46:472][387]Cmd: EDIT COPY
+[2019.03.26-09.33.46:749][412]Cmd: EDIT PASTE
+[2019.03.26-09.33.48:768][582]Cmd: EDIT PASTE
+[2019.03.26-09.33.51:133][783]LogEditorViewport: Clicking Background
+[2019.03.26-09.33.53:948][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2019.03.26-09.33.55:146][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.03.26-09.33.56:275][298]Cmd: EDIT COPY
+[2019.03.26-09.33.56:552][321]Cmd: EDIT PASTE
+[2019.03.26-09.34.00:628][670]Cmd: EDIT PASTE
+[2019.03.26-09.34.10:686][547]Cmd: EDIT COPY
+[2019.03.26-09.34.11:090][582]Cmd: EDIT PASTE
+[2019.03.26-09.34.18:545][224]Cmd: EDIT PASTE
+[2019.03.26-09.34.23:751][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.34.27:885][ 24]LogEditorViewport: Clicking Background
+[2019.03.26-09.34.29:470][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.34.32:166][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2019.03.26-09.34.33:836][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.34.41:646][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2019.03.26-09.34.43:023][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2019.03.26-09.34.49:272][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor19)
+[2019.03.26-09.34.51:221][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2019.03.26-09.34.58:860][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.35.05:224][374]Cmd: EDIT CUT
+[2019.03.26-09.35.05:230][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-09.35.05:241][374]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2019.03.26-09.35.06:752][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2019.03.26-09.35.16:102][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2019.03.26-09.35.17:677][481]Cmd: EDIT COPY
+[2019.03.26-09.35.18:322][537]Cmd: EDIT PASTE
+[2019.03.26-09.35.21:644][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WindowWall)
+[2019.03.26-09.35.23:518][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.03.26-09.35.24:547][ 63]Cmd: EDIT COPY
+[2019.03.26-09.35.24:821][ 86]Cmd: EDIT PASTE
+[2019.03.26-09.35.28:968][441]Cmd: EDIT PASTE
+[2019.03.26-09.35.31:216][635]Cmd: TRANSACTION UNDO
+[2019.03.26-09.35.31:216][635]LogEditorTransaction: Undo Paste
+[2019.03.26-09.35.31:743][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall15)
+[2019.03.26-09.35.32:511][732]Cmd: EDIT COPY
+[2019.03.26-09.35.32:749][753]Cmd: EDIT PASTE
+[2019.03.26-09.35.45:106][809]Cmd: EDIT COPY
+[2019.03.26-09.35.45:438][837]Cmd: EDIT PASTE
+[2019.03.26-09.35.51:310][346]Cmd: EDIT COPY
+[2019.03.26-09.35.51:871][393]Cmd: EDIT PASTE
+[2019.03.26-09.36.01:719][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.03.26-09.36.03:652][414]Cmd: EDIT COPY
+[2019.03.26-09.36.04:081][451]Cmd: EDIT PASTE
+[2019.03.26-09.36.11:684][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor13)
+[2019.03.26-09.36.14:311][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall18)
+[2019.03.26-09.36.16:553][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.36.25:557][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.36.39:575][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.36.43:308][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2019.03.26-09.36.44:166][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall18)
+[2019.03.26-09.36.45:668][ 35]Cmd: EDIT COPY
+[2019.03.26-09.36.45:972][ 61]Cmd: EDIT PASTE
+[2019.03.26-09.36.47:804][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.36.53:331][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.36.58:772][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall20)
+[2019.03.26-09.36.59:425][214]Cmd: EDIT COPY
+[2019.03.26-09.36.59:685][236]Cmd: EDIT PASTE
+[2019.03.26-09.37.00:934][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.37.05:451][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor18)
+[2019.03.26-09.37.07:005][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall21)
+[2019.03.26-09.37.13:750][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.37.18:644][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2019.03.26-09.37.20:345][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.37.35:145][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall21)
+[2019.03.26-09.37.35:788][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2019.03.26-09.37.47:709][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2019.03.26-09.37.48:881][451]Cmd: EDIT COPY
+[2019.03.26-09.37.49:351][491]Cmd: EDIT PASTE
+[2019.03.26-09.37.51:169][644]Cmd: EDIT PASTE
+[2019.03.26-09.37.58:763][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor21)
+[2019.03.26-09.38.01:213][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor22)
+[2019.03.26-09.38.02:834][632]Cmd: EDIT COPY
+[2019.03.26-09.38.03:956][730]Cmd: EDIT PASTE
+[2019.03.26-09.38.06:680][964]Cmd: EDIT COPY
+[2019.03.26-09.38.06:918][984]Cmd: EDIT PASTE
+[2019.03.26-09.38.11:492][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor26)
+[2019.03.26-09.38.12:136][431]Cmd: EDIT COPY
+[2019.03.26-09.38.12:454][458]Cmd: EDIT PASTE
+[2019.03.26-09.38.14:191][602]Cmd: EDIT PASTE
+[2019.03.26-09.38.16:705][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall23)
+[2019.03.26-09.38.17:745][898]Cmd: EDIT COPY
+[2019.03.26-09.38.18:046][923]Cmd: EDIT PASTE
+[2019.03.26-09.38.24:655][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall14)
+[2019.03.26-09.38.25:695][581]Cmd: EDIT COPY
+[2019.03.26-09.38.26:003][607]Cmd: EDIT PASTE
+[2019.03.26-09.38.48:498][539]Cmd: EDIT COPY
+[2019.03.26-09.38.48:882][572]Cmd: EDIT PASTE
+[2019.03.26-09.38.59:095][459]Cmd: EDIT COPY
+[2019.03.26-09.38.59:368][483]Cmd: EDIT PASTE
+[2019.03.26-09.39.03:971][881]Cmd: TRANSACTION UNDO
+[2019.03.26-09.39.03:971][881]LogEditorTransaction: Undo Move Actors
+[2019.03.26-09.39.04:909][950]Cmd: EDIT CUT
+[2019.03.26-09.39.04:914][950]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-09.39.04:925][950]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2019.03.26-09.39.05:575][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2019.03.26-09.39.06:483][ 98]Cmd: EDIT COPY
+[2019.03.26-09.39.06:687][116]Cmd: EDIT PASTE
+[2019.03.26-09.39.20:918][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall24)
+[2019.03.26-09.39.21:869][417]Cmd: EDIT COPY
+[2019.03.26-09.39.22:232][448]Cmd: EDIT PASTE
+[2019.03.26-09.39.26:602][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall26)
+[2019.03.26-09.39.28:197][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.39.31:153][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.39.31:795][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall26)
+[2019.03.26-09.39.35:545][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall25)
+[2019.03.26-09.39.36:806][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall26)
+[2019.03.26-09.39.40:725][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor26)
+[2019.03.26-09.40.00:774][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.40.04:439][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.40.07:166][190]LogEditorViewport: Clicking on Actor (context menu): Doorset_DoorFrame_Blueprint_C (Doorset_DoorFrame_Blueprint)
+[2019.03.26-09.40.07:198][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.40.07:893][247]LogEditorViewport: Clicking on Actor (LMB): Doorset_DoorFrame_Blueprint_C (Doorset_DoorFrame_Blueprint)
+[2019.03.26-09.40.09:577][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.41.08:028][307]LogSavePackage: Save=56.50ms
+[2019.03.26-09.41.08:028][307]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/PlayLevel_Auto1E8BCB285425580381BFFE5BA5B03B0DE.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto1.umap'
+[2019.03.26-09.41.08:032][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/PlayLevel_Auto1.umap
+[2019.03.26-09.41.08:034][307]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelDesign/Maps/PlayLevel' took 0.115
+[2019.03.26-09.41.08:034][307]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
+[2019.03.26-09.41.08:037][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Maps/Meshes/Wall] ([1] browsable assets)...
+[2019.03.26-09.41.08:069][307]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelDesign/Maps/Meshes/Wall.Wall]
+[2019.03.26-09.41.08:069][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Maps/Meshes/Wall]
+[2019.03.26-09.41.08:084][307]LogSavePackage: Save=12.99ms
+[2019.03.26-09.41.08:084][307]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Wall_Auto153BC9081425A234E1DD4F58FC398E588.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Wall_Auto1.uasset'
+[2019.03.26-09.41.08:086][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Wall_Auto1.uasset
+[2019.03.26-09.41.08:088][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Maps/Meshes/GreyBox] ([1] browsable assets)...
+[2019.03.26-09.41.08:118][307]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelDesign/Maps/Meshes/GreyBox.GreyBox]
+[2019.03.26-09.41.08:118][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Maps/Meshes/GreyBox]
+[2019.03.26-09.41.08:135][307]LogSavePackage: Save=14.62ms
+[2019.03.26-09.41.08:135][307]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/GreyBox_Auto1B58FA0A740D17CF9E26F30B60159616E.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/GreyBox_Auto1.uasset'
+[2019.03.26-09.41.08:138][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/GreyBox_Auto1.uasset
+[2019.03.26-09.41.08:139][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Maps/Meshes/Modular/CorridorFloor] ([1] browsable assets)...
+[2019.03.26-09.41.08:170][307]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelDesign/Maps/Meshes/Modular/CorridorFloor.CorridorFloor]
+[2019.03.26-09.41.08:170][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Maps/Meshes/Modular/CorridorFloor]
+[2019.03.26-09.41.08:186][307]LogSavePackage: Save=13.29ms
+[2019.03.26-09.41.08:186][307]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/CorridorFloor_Auto1AD13C0664833BA3F8D2D26AFC90D3E01.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Modular/CorridorFloor_Auto1.uasset'
+[2019.03.26-09.41.08:188][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Modular/CorridorFloor_Auto1.uasset
+[2019.03.26-09.41.08:189][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Maps/Meshes/Modular/NormalFloor] ([1] browsable assets)...
+[2019.03.26-09.41.08:220][307]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelDesign/Maps/Meshes/Modular/NormalFloor.NormalFloor]
+[2019.03.26-09.41.08:220][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Maps/Meshes/Modular/NormalFloor]
+[2019.03.26-09.41.08:236][307]LogSavePackage: Save=13.21ms
+[2019.03.26-09.41.08:236][307]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/NormalFloor_Auto1014EA9654E0EDD4B37DE898AF1309D61.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Modular/NormalFloor_Auto1.uasset'
+[2019.03.26-09.41.08:239][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Modular/NormalFloor_Auto1.uasset
+[2019.03.26-09.41.08:240][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Maps/Meshes/Modular/Wall] ([1] browsable assets)...
+[2019.03.26-09.41.08:270][307]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelDesign/Maps/Meshes/Modular/Wall.Wall]
+[2019.03.26-09.41.08:271][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Maps/Meshes/Modular/Wall]
+[2019.03.26-09.41.08:287][307]LogSavePackage: Save=13.06ms
+[2019.03.26-09.41.08:287][307]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Wall_Auto1511DA3BB4E6054916363D1B9A3ACAEB7.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Modular/Wall_Auto1.uasset'
+[2019.03.26-09.41.08:289][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Modular/Wall_Auto1.uasset
+[2019.03.26-09.41.08:291][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Maps/Meshes/Modular/WindowWall] ([1] browsable assets)...
+[2019.03.26-09.41.08:321][307]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelDesign/Maps/Meshes/Modular/WindowWall.WindowWall]
+[2019.03.26-09.41.08:321][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Maps/Meshes/Modular/WindowWall]
+[2019.03.26-09.41.08:336][307]LogSavePackage: Save=12.71ms
+[2019.03.26-09.41.08:336][307]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/WindowWall_Auto1D6F37035442DD4FE72D85F8D9B725939.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Modular/WindowWall_Auto1.uasset'
+[2019.03.26-09.41.08:338][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Autosaves/Game/LevelDesign/Maps/Meshes/Modular/WindowWall_Auto1.uasset
+[2019.03.26-09.41.08:338][307]LogFileHelpers: Auto-saving content packages took 0.303
+[2019.03.26-09.41.14:981][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.41.22:056][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.41.24:581][497]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.26-09.41.25:857][609]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.26-09.41.27:598][765]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.26-09.41.30:728][ 38]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.26-09.41.31:618][117]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.26-09.41.32:293][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.41.37:237][581]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-09.41.37:248][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-09.41.37:248][581]PIE: New page: PIE session: PlayLevel (26 Mar 2019 09:41:37)
+[2019.03.26-09.41.37:248][581]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.26-09.41.37:253][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003996s)
+[2019.03.26-09.41.37:253][581]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.26-09.41.37:253][581]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2019.03.26-09.41.37:253][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.004992s)
+[2019.03.26-09.41.37:267][581]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-09.41.37:292][581]LogInit: FAudioDevice initialized.
+[2019.03.26-09.41.37:341][581]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.26-09.41.37:347][581]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.26-09.41.37
+[2019.03.26-09.41.37:347][581]LogWorld: Bringing up level for play took: 0.004467
+[2019.03.26-09.41.37:355][581]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2019.03.26-09.41.37:358][581]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel -0.245
+[2019.03.26-09.41.42:269][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.41.47:901][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/Modular/WindowWall" FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/WindowWall.uasset" SILENT=true
+[2019.03.26-09.41.47:916][762]LogSavePackage: Save=12.55ms
+[2019.03.26-09.41.47:916][762]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/WindowWallDF5C8E7E46D6D730617AFC8DDCAE9BCC.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/WindowWall.uasset'
+[2019.03.26-09.41.47:921][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/WindowWall.uasset
+[2019.03.26-09.41.47:940][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/Modular/Wall" FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Wall.uasset" SILENT=true
+[2019.03.26-09.41.47:955][762]LogSavePackage: Save=12.41ms
+[2019.03.26-09.41.47:955][762]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Wall646111B8463CA927309CDE9CC535A217.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Wall.uasset'
+[2019.03.26-09.41.47:960][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Wall.uasset
+[2019.03.26-09.41.47:993][762]LogSavePackage: Save=11.38ms
+[2019.03.26-09.41.47:993][762]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/NormalFloorEE2B1A7B42F4B246B66FE6BBD729D834.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/NormalFloor.uasset'
+[2019.03.26-09.41.47:998][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/NormalFloor.uasset
+[2019.03.26-09.41.48:032][762]LogSavePackage: Save=11.98ms
+[2019.03.26-09.41.48:032][762]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/CorridorFloorF35BA4EE4BE819AF0BDFE5912D38A775.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/CorridorFloor.uasset'
+[2019.03.26-09.41.48:037][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/CorridorFloor.uasset
+[2019.03.26-09.41.48:056][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/Wall" FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Wall.uasset" SILENT=true
+[2019.03.26-09.41.48:070][762]LogSavePackage: Save=12.40ms
+[2019.03.26-09.41.48:070][762]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/Wall348877404AD9C4632338C89A350CB5D2.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Wall.uasset'
+[2019.03.26-09.41.48:075][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Wall.uasset
+[2019.03.26-09.41.48:095][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/GreyBox" FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/GreyBox.uasset" SILENT=true
+[2019.03.26-09.41.48:109][762]LogSavePackage: Save=11.95ms
+[2019.03.26-09.41.48:110][762]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/GreyBox1A8EC4E344F18250BE55F79499D016D4.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/GreyBox.uasset'
+[2019.03.26-09.41.48:115][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/GreyBox.uasset
+[2019.03.26-09.42.02:011][916]LogSlate: Window 'CorridorFloor*' being destroyed
+[2019.03.26-09.42.02:015][916]LogSlate: Window 'CorridorFloor*' being destroyed
+[2019.03.26-09.42.08:191][385]LogSlate: Window 'NormalFloor*' being destroyed
+[2019.03.26-09.42.08:195][385]LogSlate: Window 'NormalFloor*' being destroyed
+[2019.03.26-09.42.14:862][901]LogSlate: Window 'Wall*' being destroyed
+[2019.03.26-09.42.14:866][901]LogSlate: Window 'Wall*' being destroyed
+[2019.03.26-09.42.20:886][364]LogSlate: Window 'WindowWall*' being destroyed
+[2019.03.26-09.42.20:890][364]LogSlate: Window 'WindowWall*' being destroyed
+[2019.03.26-09.42.29:915][ 80]LogSlate: Window 'CorridorFloor*' being destroyed
+[2019.03.26-09.42.29:919][ 80]LogSlate: Window 'CorridorFloor*' being destroyed
+[2019.03.26-09.42.35:811][519]LogSavePackage: Save=10.87ms
+[2019.03.26-09.42.35:811][519]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/NormalFloor45A3936A44D9564147CD1F84F287D00D.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/NormalFloor.uasset'
+[2019.03.26-09.42.35:815][519]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/NormalFloor.uasset
+[2019.03.26-09.42.36:077][540]LogSlate: Window 'NormalFloor' being destroyed
+[2019.03.26-09.42.36:082][540]LogSlate: Window 'NormalFloor' being destroyed
+[2019.03.26-09.42.41:359][937]LogSlate: Window 'Wall*' being destroyed
+[2019.03.26-09.42.41:364][937]LogSlate: Window 'Wall*' being destroyed
+[2019.03.26-09.42.47:405][379]LogSlate: Window 'WindowWall*' being destroyed
+[2019.03.26-09.42.47:410][379]LogSlate: Window 'WindowWall*' being destroyed
+[2019.03.26-09.42.48:151][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/Modular/WindowWall" FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/WindowWall.uasset" SILENT=true
+[2019.03.26-09.42.48:169][430]LogSavePackage: Save=11.86ms
+[2019.03.26-09.42.48:169][430]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/WindowWallDFC82D704374CE4D53CBC49DD75C91A6.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/WindowWall.uasset'
+[2019.03.26-09.42.48:173][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/WindowWall.uasset
+[2019.03.26-09.42.48:190][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Meshes/Modular/Wall" FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Wall.uasset" SILENT=true
+[2019.03.26-09.42.48:208][430]LogSavePackage: Save=13.30ms
+[2019.03.26-09.42.48:208][430]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/WallF72B48F24321490DB5CC51B9876A6734.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Wall.uasset'
+[2019.03.26-09.42.48:212][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/Wall.uasset
+[2019.03.26-09.42.48:247][430]LogSavePackage: Save=12.21ms
+[2019.03.26-09.42.48:247][430]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/CorridorFloor59E48ACB4D2649EF2AD36F9119FF6DC5.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/CorridorFloor.uasset'
+[2019.03.26-09.42.48:251][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Meshes/Modular/CorridorFloor.uasset
+[2019.03.26-09.42.50:922][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.42.50:991][694]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-09.42.51:003][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.26-09.42.51:004][694]PIE: New page: PIE session: PlayLevel (26 Mar 2019 09:42:51)
+[2019.03.26-09.42.51:004][694]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.26-09.42.51:008][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004057s)
+[2019.03.26-09.42.51:008][694]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.26-09.42.51:009][694]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.03.26-09.42.51:009][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.004959s)
+[2019.03.26-09.42.51:028][694]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-09.42.51:052][694]LogInit: FAudioDevice initialized.
+[2019.03.26-09.42.51:085][694]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.26-09.42.51:090][694]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.26-09.42.51
+[2019.03.26-09.42.51:091][694]LogWorld: Bringing up level for play took: 0.004943
+[2019.03.26-09.42.51:094][694]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel -0.509
+[2019.03.26-09.43.06:541][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.43.25:797][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.44.33:680][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor28)
+[2019.03.26-09.44.35:095][359]Cmd: EDIT COPY
+[2019.03.26-09.44.35:384][383]Cmd: EDIT PASTE
+[2019.03.26-09.44.37:141][530]Cmd: EDIT CUT
+[2019.03.26-09.44.37:146][530]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-09.44.37:157][530]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2019.03.26-09.44.40:068][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CorridorFloor2)
+[2019.03.26-09.44.41:172][937]Cmd: EDIT COPY
+[2019.03.26-09.44.41:694][976]Cmd: EDIT PASTE
+[2019.03.26-09.44.46:579][344]Cmd: EDIT CUT
+[2019.03.26-09.44.46:585][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-09.44.46:596][344]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2019.03.26-09.44.47:527][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CorridorFloor2)
+[2019.03.26-09.44.48:839][539]Cmd: EDIT COPY
+[2019.03.26-09.44.49:225][568]Cmd: EDIT PASTE
+[2019.03.26-09.44.58:608][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CorridorFloor)
+[2019.03.26-09.44.59:821][397]Cmd: EDIT COPY
+[2019.03.26-09.45.00:192][427]Cmd: EDIT PASTE
+[2019.03.26-09.45.06:149][895]Cmd: EDIT CUT
+[2019.03.26-09.45.06:154][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-09.45.06:164][895]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2019.03.26-09.45.09:353][253]LogEditorViewport: Clicking on Actor (LMB): Doorset_DoorFrame_Blueprint_C (Doorset_DoorFrame_Blueprint)
+[2019.03.26-09.45.10:478][337]Cmd: EDIT COPY
+[2019.03.26-09.45.10:753][357]Cmd: EDIT PASTE
+[2019.03.26-09.45.22:381][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor27)
+[2019.03.26-09.49.16:866][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.49.19:411][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.49.33:261][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.49.33:956][833]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2019.03.26-09.49.34:475][833]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b503a1590, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.26-09.49.34:476][833]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b503a1588, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.26-09.49.35:464][833]LogSlate: Took 0.012889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.26-09.49.42:593][218]LogSlate: Window 'LightBox_Blueprint' being destroyed
+[2019.03.26-09.49.42:599][218]LogSlate: Window 'LightBox_Blueprint' being destroyed
+[2019.03.26-09.50.09:256][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.50.16:317][973]LogSlate: Window 'LightBox_Blueprint' being destroyed
+[2019.03.26-09.50.16:322][973]LogSlate: Window 'LightBox_Blueprint' being destroyed
+[2019.03.26-09.50.20:357][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.50.44:509][723]LogSlate: Window 'LightBox_Blueprint*' being destroyed
+[2019.03.26-09.50.44:513][723]LogSlate: Window 'LightBox_Blueprint*' being destroyed
+[2019.03.26-09.50.48:567][ 63]LogEditorViewport: Clicking Background
+[2019.03.26-09.50.49:355][153]LogEditorViewport: Clicking on Actor (LMB): LightBox_Blueprint_C (LightBox_Blueprint)
+[2019.03.26-09.51.02:317][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.51.13:744][214]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.03.26-09.51.15:491][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.51.20:216][760]LogEditorViewport: Clicking on Actor (LMB): LightBox_Blueprint_C (LightBox_Blueprint)
+[2019.03.26-09.51.27:036][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.52.09:688][802]LogSlate: Window 'LightBox_Blueprint*' being destroyed
+[2019.03.26-09.52.09:693][802]LogSlate: Window 'LightBox_Blueprint*' being destroyed
+[2019.03.26-09.52.10:449][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.52.22:678][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.52.58:284][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.53.00:671][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.54.04:051][882]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.26-09.54.04:055][882]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.26-09.54.05:106][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.54.06:766][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor)
+[2019.03.26-09.54.08:106][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-09.54.08:324][186]LogSavePackage: Save=70.35ms
+[2019.03.26-09.54.08:325][186]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/PlayLevel55F09EC343FD8490C5BE489F6ED7DED3.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap'
+[2019.03.26-09.54.08:330][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/LevelDesign/Maps/PlayLevel.umap
+[2019.03.26-09.54.08:370][186]LogFileHelpers: Saving map 'PlayLevel' took 0.258
+[2019.03.26-09.54.08:387][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Provision/LightBox_Blueprint" FILE="../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/Provision/LightBox_Blueprint.uasset" SILENT=true
+[2019.03.26-09.54.08:405][186]LogSavePackage: Save=12.50ms
+[2019.03.26-09.54.08:405][186]LogSavePackage: Moving '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Saved/LightBox_Blueprint13A615E0459CB09E30054BB89FFCDCAD.tmp' to '../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/Provision/LightBox_Blueprint.uasset'
+[2019.03.26-09.54.08:409][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/4russd83/Downloads/TheDen/TheDen/Content/Provision/LightBox_Blueprint.uasset
+[2019.03.26-09.54.09:095][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-09.55.47:517][231]LogEditorTransaction: Undo Add Node
+[2019.03.26-09.55.58:991][934]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bb7305588, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.55.58:993][934]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bb7305588, Size=4
+[2019.03.26-09.55.58:994][934]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bb7305588, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_46:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.55.58:995][934]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bb7305560, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.56.06:608][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bb7305560, Size=4
+[2019.03.26-09.56.06:608][410]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bcfbf9a98, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_48:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.56.19:255][292]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bb7306120, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.56.37:092][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bb7306120, Size=4
+[2019.03.26-09.56.37:092][412]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023ba92e5a98, Size=4, Default__SKEL_PlayLevel_C Function /Engine/Transient.REINST_SKEL_PlayLevel_C_52:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.56.37:093][412]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023ba92e69c8, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.59.38:217][143]BlueprintLog: New page: Compile PlayLevel
+[2019.03.26-09.59.38:220][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023ba92e69c8, Size=4
+[2019.03.26-09.59.38:220][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023ba50cb088, Size=4, SKEL_PlayLevel_C_0 Function /Engine/Transient.REINST_SKEL_PlayLevel_C_54:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.59.38:223][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023baa9fcdf0, Size=24, Default__PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.26-09.59.38:349][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023ba50cb088, Size=4
+[2019.03.26-09.59.38:349][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023ba92e5a98, Size=4
+[2019.03.26-09.59.38:350][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bcfbf9a98, Size=4
+[2019.03.26-09.59.38:350][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bb7305588, Size=4
+[2019.03.26-09.59.42:288][372]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.26-09.59.42:293][372]LogSlate: Window 'PlayLevel* - Level Blueprint Editor' being destroyed
+[2019.03.26-09.59.43:324][448]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.26-09.59.43:342][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.26-09.59.43:342][448]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.26-09.59.43:345][448]LogPlayLevel: [PlayLevel] Compiling LightBox_Blueprint before play...
+[2019.03.26-09.59.43:679][448]LogPlayLevel: PlayLevel: Blueprint regeneration took 336 ms (1 blueprints)
+[2019.03.26-09.59.43:679][448]PIE: New page: PIE session: PlayLevel (26 Mar 2019 09:59:43)
+[2019.03.26-09.59.43:679][448]LogPlayLevel: Creating play world package: /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel
+[2019.03.26-09.59.43:684][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005273s)
+[2019.03.26-09.59.43:685][448]LogAIModule: Creating AISystem for world PlayLevel
+[2019.03.26-09.59.43:685][448]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2019.03.26-09.59.43:685][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Maps/PlayLevel.PlayLevel to /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.006193s)
+[2019.03.26-09.59.43:706][448]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.26-09.59.43:729][448]LogInit: FAudioDevice initialized.
+[2019.03.26-09.59.43:764][448]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.26-09.59.43:769][448]LogWorld: Bringing World /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 0) at 2019.03.26-09.59.43
+[2019.03.26-09.59.43:770][448]LogWorld: Bringing up level for play took: 0.004906
+[2019.03.26-09.59.43:775][448]PIE: Play in editor start time for /Game/LevelDesign/Maps/UEDPIE_0_PlayLevel 0.174
+[2019.03.26-09.59.43:775][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.26-09.59.43:801][449]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085523 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.03.26-09.59.53:071][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.26-09.59.53:108][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/LevelDesign/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/LevelDesign/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.03.26-10.00.29:222][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFloor12)
+[2019.03.26-10.00.29:643][623]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2019.03.26-10.00.31:273][753]LogEditorViewport: Clicking on Actor (context menu): TriggerVolume (TriggerVolume)
+[2019.03.26-10.00.31:305][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-10.00.33:551][923]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2019.03.26-10.00.35:204][ 55]LogEditorViewport: Clicking on Actor (LMB): LightBox_Blueprint_C (LightBox_Blueprint)
+[2019.03.26-10.00.35:781][ 96]LogEditorViewport: Clicking on Actor (context menu): LightBox_Blueprint_C (LightBox_Blueprint)
+[2019.03.26-10.00.35:814][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-10.00.39:442][324]Cmd: DELETE
+[2019.03.26-10.00.39:442][324]Cmd: ACTOR DELETE
+[2019.03.26-10.00.39:452][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-10.00.41:756][324]LogSlate: Window 'Message' being destroyed
+[2019.03.26-10.00.41:759][324]LogEditorActor: Deleted Actor: LightBox_Blueprint_C
+[2019.03.26-10.00.41:781][324]LogEditorActor: Deleted 1 Actors (2.339 secs)
+[2019.03.26-10.00.43:622][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-10.00.45:693][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-10.00.56:069][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-10.00.58:690][731]LogEditorViewport: Clicking on Actor (LMB): Doorset_DoorFrame_Blueprint_C (Doorset_DoorFrame_Blueprint)
+[2019.03.26-10.00.59:924][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-10.01.01:747][961]LogEditorViewport: Clicking on Actor (LMB): Pickup_Blueprint_C (Pickup_Blueprint)
+[2019.03.26-10.01.10:248][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-10.01.19:627][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-10.01.21:344][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-10.01.24:704][778]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023ba50c83b0, Size=4, Default__SKEL_PlayLevel_C Function /Game/LevelDesign/Maps/PlayLevel.SKEL_PlayLevel_C:ExecuteUbergraph_PlayLevel
+[2019.03.26-10.01.29:011][ 45]LogUObjectArray: Warning: Invalid object index -572662307
+[2019.03.26-10.01.30:184][ 45]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.172 s
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: 
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: Stack: 
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000BC17B706 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000BBEDAE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000BBEEECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B7D03DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B611B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B42DC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B41677AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B416AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B42A6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B8C16057 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B8C1BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B8E4C253 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B8C70475 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-10.01.30:184][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B8C48360 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000B8C3B197 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000BD65E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000BD651B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000BD66052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000BD64D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x000000005FB9B85D USER32.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x000000005FB9B1EF USER32.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000BD661666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000C4BA5475 UE4Editor.exe!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000C4BB6BD0 UE4Editor.exe!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000C4BB6C4A UE4Editor.exe!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000C4BC4177 UE4Editor.exe!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x00000000C4BC5B87 UE4Editor.exe!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x000000005D7C3574 KERNEL32.DLL!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: [Callstack] 0x000000006002CB81 ntdll.dll!UnknownFunction []
+[2019.03.26-10.01.30:185][ 45]LogOutputDevice: Error: 
+[2019.03.26-10.01.30:191][ 45]LogStats:                SubmitErrorReport -  0.000 s
